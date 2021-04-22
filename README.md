@@ -3,7 +3,10 @@ Supply Additional Mobile Phone Properties to CTR model apart from device model.
 Mobile data enhancer to improve efficiency of CTR model.
 Useful for generating mobile phone models Clusters also on the basis of click response.
 
-Feature importance table -
+Feature importance table based on Avazu Dataset -
+Device model plays a significant role.
+Enhancing Device model properties can lead to further improvement.
+
 ```
 Feature Id	Importances
 site_id	36.9095037
