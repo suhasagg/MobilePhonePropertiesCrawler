@@ -4,13 +4,21 @@ Mobile data enhancer to improve efficiency of CTR model.
 Useful for generating mobile phone models Clusters also on the basis of click response.
 
 # Some of Properties include 
+```
 1)priceRange
+
 2)processor
+
 3)display
+
 4)primarycamera
+
 5)battery
+
 6)frontcamera
+
 7)RAM
+```
 
 # Feature importance table based on Avazu Dataset 
 
