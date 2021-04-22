@@ -1,0 +1,5447 @@
+    5244:       Fennec
+	5361:       Viewty
+	9214:       Glass
+	12828:       Pearl
+	13063:       Curve
+	13202:       Curve
+	14076:       World Edition
+	14210:       Charm
+	15435:       Star Trek
+	15650:       Pilgrim/Tilt
+	15699:       Herald/Wing/Atlas
+	16018:       Excalibur
+	16262:       Incredible S
+	16390:       Artemis
+	16513:       Trinity
+	17245:       Typhoon
+	17613:       Faraday
+	17755:       HTC Charmer
+	19116:       classic
+	21684:       XpressMusic
+	21847:       XpressMusic 5610
+	22146:       XpressMusic
+	23474:       Navigator
+	24758:       Navigator
+	27434:       Slide
+	29825:       Supernova
+	31228:       Prism
+	31597:       Luna
+	31741:       Sirocco Edition
+	31896:       Arte
+	34450:       Communicator
+	49188:       BlackJack
+	55542:       SYNC
+	68680:       Joy McLaren Vodafone
+	70014:       One Touch
+	70203:       One Touch
+	70520:       BG3C
+	70842:       One Touch
+	71026:       One Touch
+	71831:       MING
+	73983:       MOTORIZR
+	74108:       MOTOROKR
+	74248:       MOTOROKR
+	77173:       Talkabout
+	77709:       Tyax
+	78114:       RokR
+	80222:       Accompli
+	80269:       Accompli
+	80941:       SLVR
+	84063:       RAZR
+	87608:       RAZR2
+	88841:       MOTORIZR
+	114086:       Prada
+	114716:       Chocolate
+	114861:       Chocolate
+	118100:       JOY
+	121489:       Voyager
+	132866:       Marbl
+	133043:       Strobe
+	133139:       Strobe
+	133169:       Koi
+	133236:       Koi
+	140614:       Uproar
+	144934:       Sidekick
+	146731:       PSP
+	148829:       Digi Walker
+	148855:       Digi Walker
+	150515:       Snapper
+	158879:       DreamPhone G500i
+	160804:       Zaurus
+	162547:       Butterfly / Hello Kitty
+	162872:       Navigator
+	163213:       VGA1000
+	167854:       Shine
+	168188:       BlackMonster
+	168529:       MOTORAZR 2
+	169130:       Adventure
+	169661:       Curve
+	169942:       Voice Messenger
+	170063:       Apache
+	170179:       Mogul
+	170266:       Sprint
+	170315:       Touch/Elf
+	170457:       TyTN
+	170922:       Katana
+	171006:       Katana II
+	173962:       classic
+	174887:       Classic
+	175871:       PRADA
+	176187:       Voice Messenger
+	176681:       Vu
+	177380:       BlackJack II
+	177498:       Pearl
+	177778:       Duo
+	179586:       Porsche Design
+	179892:       Alias
+	179952:       Shine
+	180292:       Nike
+	180414:       Viewty
+	183226:       Advantage
+	185169:       3 Skypephone
+	187338:       MOTOROKR
+	188877:       Pearl
+	189082:       DuoS
+	190861:       Polaris
+	191584:       XpressMusic
+	191911:       Vodafone s710
+	205248:       Mogul
+	205523:       Classic
+	206289:       Secret
+	206417:       Bold
+	207323:       Jack
+	207483:       Pharos
+	207809:       Curve
+	208280:       XpressMusic
+	208402:       Navigator
+	209271:       Solid
+	210452:       Classic
+	211522:       Instinct
+	211720:       OMNIA
+	212862:       Asus Otto
+	213009:       Dare
+	213371:       Cavalier
+	215125:       Panda
+	215519:       Xperia
+	215708:       Tornado
+	216324:       ACE
+	217412:       Supernova
+	217630:       Access
+	217717:       Hermes
+	217796:       Supernova
+	218423:       Renoir
+	219079:       Pearl 3G
+	219473:       Messager
+	219524:       MOTOROKR
+	219721:       Muse
+	220403:       Pearl Flip
+	220504:       Curve
+	226477:       Katana LX
+	226533:       Titan
+	227358:       XpressMusic
+	227791:       Storm
+	228398:       Slide
+	228659:       Instinct
+	228676:       Instinct
+	228731:       Fold
+	229765:       Tribe
+	230306:       Slide
+	230430:       Prism
+	230870:       Voyager
+	231883:       Pebble
+	233867:       Fold
+	234221:       Touch Cruise
+	234284:       Raphael 100
+	234574:       Touch Diamond
+	234716:       INNOV8
+	234830:       XpressMusic
+	236433:       
+	236715:       Verizon
+	237250:       Beacon
+	237511:       Dopod 830
+	238415:       Chocolate Spin
+	238504:       Shine
+	238559:       Venus
+	238654:       Incite
+	239277:       VU
+	239353:       ROKR E1
+	240133:       Blackjack Telstra
+	240702:       FOMA HT1100
+	240764:       Emonster
+	241001:       Blitz
+	241089:       ChocolateFlip
+	241773:       Katana
+	241822:       SCP-7050
+	242076:       Katalyst
+	242373:       Stripe
+	242490:       EM-ONE
+	243938:       TOUCHWiZ
+	244341:       Slide
+	245624:       Storm
+	246138:       PIXON
+	246435:       SCH-U410
+	246445:       SCH-U550
+	246455:       SCH U900
+	246469:       SCH U700
+	246822:       EMonster Lite (S12HT)
+	246848:       Softbank X03HT
+	246908:       Nucleus
+	247287:       Lenovo i966
+	247520:       Bird D600
+	247528:       Touch Diamond/Victor
+	247649:       Vegas
+	248219:       Verizon
+	248670:       Prada
+	249187:       Shine
+	249270:       Chocolate
+	249740:       Vegas
+	249847:       Fullface
+	251227:       Parrot
+	251281:       MD3
+	251605:       Communicator
+	252265:       Viera
+	253154:       Rhythm
+	253246:       JetSet
+	254241:       Krave
+	254544:       Viera
+	255225:       Photos
+	256099:       Aquos
+	256220:       Mega
+	257005:       Prada
+	257650:       Bird M19
+	257709:       Bird S889
+	257782:       Excalibur
+	258308:       Secret
+	259098:       Touch Pro
+	259315:       g-Smart
+	259793:       Supernova
+	260178:       Pixon
+	260283:       Propel
+	260715:       Beat
+	260790:       Soul
+	261407:       Epix
+	261510:       Omnia
+	261764:       Luxe
+	262921:       Fan Fan
+	264098:       Softbank 910T
+	264667:       Ming
+	264686:       Advanced W-Zero
+	264844:       KX13
+	264970:       Motorokr
+	265001:       Motorokr
+	265033:       Smart Rider
+	265185:       The Premium
+	265240:       Aquos
+	265251:       The Premium
+	265294:       Fullface2
+	265369:       Gent
+	265966:       E75
+	266761:       Ultra Edition 10.9
+	267253:       The Premium Texture
+	267290:       Pantone Slide
+	267330:       Chocolate
+	267513:       Valencia
+	267625:       Classic
+	267688:       Supernova
+	268212:       Quickfire
+	269537:       D&amp;G
+	269676:       BlackStone
+	270075:       Raspberry
+	270093:       Disney Cinderella
+	270375:       Omnia
+	270522:       Invision
+	270762:       Secret
+	271866:       Beat
+	272156:       TXTster
+	273363:       Rugby
+	273597:       Neo
+	273762:       MOTOROCKR
+	274496:       Gravity
+	274612:       Eternity
+	275067:       Slide
+	275695:       Dual Sim Card
+	276584:       Supernova
+	276723:       Fly HUMMER HT1
+	276743:       Fly HUMMER HT2
+	278237:       Neon
+	278678:       Porsche Design
+	279870:       Melo
+	279912:       Softbank X01T
+	281140:       Curve
+	283816:       Saga
+	283846:       Omnia
+	283926:       Viera
+	283965:       Treo Pro
+	284537:       Vision
+	284694:       XpressMusic
+	284810:       XpressMusic
+	285411:       Finesse
+	286018:       Smooth
+	286100:       Neon
+	286456:       Xenon
+	286686:       Karma
+	287329:       Cookie
+	287421:       Fanfun.2
+	288114:       Willcom 03
+	288144:       Exlim
+	288514:       G2GO
+	288783:       Calisto
+	288901:       Surge
+	289162:       Vegas
+	289275:       BeatDJ
+	290810:       Pearl
+	291411:       XpressMusic
+	291583:       Touch HD T8282
+	291922:       i250
+	291947:       T480
+	292246:       MAXX V6
+	292287:       Impression
+	292465:       Magnet
+	292563:       Jax
+	292577:       X-TC
+	292601:       Alias 2
+	294062:       Crystal
+	294338:       Beat DJ
+	294618:       T919 Behold
+	295352:       Hurricane
+	295482:       Secret
+	295780:       Stature
+	295899:       Fastweb
+	295931:       Script
+	296334:       Omnia HD
+	297149:       Rival
+	297270:       DUO
+	297305:       Memoir
+	297519:       Parrot
+	297841:       Smart Viewty
+	297929:       Satio
+	298555:       Classic
+	299779:       Jet
+	300240:       Clutch
+	300458:       HTC Touch P3450 (HTC Elf 100)
+	300493:       Star
+	301059:       Highlight
+	301564:       Black Label
+	301693:       XpressMusic
+	301848:       Tour
+	301978:       Trinity
+	302012:       Rhodium 100
+	302086:       Surge
+	302184:       Versa
+	302298:       Touch Diamond2
+	302569:       Vodafone 541
+	302921:       Aino
+	303307:       Curve
+	303643:       Corby
+	304255:       Star
+	304853:       MOTORIZR V8
+	304909:       Bliss - Volt
+	305052:       Tattoo
+	305108:       Hero
+	305153:       Galaxy
+	305399:       Gravity2
+	305551:       Matrix Pro
+	306115:       Navigator
+	306506:       Snap
+	306572:       GoPhone
+	306672:       Solstice
+	306774:       Gloss
+	307250:       Jet
+	307875:       Nuron
+	308054:       Cliq
+	308872:       Bold
+	309038:       Glance
+	309105:       Beat Twist
+	309847:       Spider 2
+	309996:       Rogue
+	310044:       Intensity
+	310251:       Propel
+	310334:       Duo
+	310378:       Aquos FullTouch
+	310807:       OmniaPRO
+	310909:       Aquos
+	310940:       Telstra Tough
+	311013:       Omnia Pop
+	311226:       Puccini
+	311647:       Pixon12
+	312079:       Aladdin
+	312363:       Satio
+	312599:       Intrigue
+	312728:       Mariner
+	312876:       Tiger
+	312947:       Expo
+	313050:       Met
+	313073:       Angel
+	313288:       Mantra
+	313407:       Behold 2
+	313575:       TouchFLO
+	313653:       Explorer
+	313783:       New Chocolate
+	313927:       Storm II
+	314346:       Corby
+	314386:       Vodafone 360 H1
+	314763:       HTC Sappire
+	314780:       Smart
+	314868:       Pop
+	315214:       Aino
+	315305:       Omnia ii
+	315409:       N97 mini
+	315513:       Alias 2
+	315575:       Classic
+	315773:       Fold
+	316355:       Attitude
+	316439:       MOTOCUBE
+	316796:       Laylo
+	317012:       XpressMusic
+	317182:       Mural
+	317307:       MOTORAZR
+	317630:       Code
+	317739:       Intrepid
+	317778:       Imagio
+	317862:       
+	317984:       Lyrics
+	318003:       Nexianberry
+	318175:       enV Touch
+	318270:       Caliber
+	318437:       Moment
+	318512:       Tilt 2
+	318772:       Vivaz
+	318931:       Storm2
+	319036:       Helix
+	319177:       Entice
+	319382:       Snap
+	319668:       enV3
+	319892:       Tobi
+	320310:       Eclaim
+	320381:       Instinct HD
+	321035:       
+	321147:       Evoke
+	321194:       Tritan
+	321278:       Chocolate Touch
+	321320:       Razzle
+	321392:       Helix
+	321405:       8575 Touch
+	321621:       beTouch E101
+	321809:       Xenium
+	322167:       Propel Pro/Jack Frost
+	322177:       Pure
+	322226:       CorbyTXT
+	322990:       Curve
+	323105:       Xperia X10
+	323403:       Layla
+	323721:       VODAFONE V720
+	323863:       Impact
+	323969:       Lite
+	324124:       Blue Earth
+	326171:       Elm
+	326751:       Popcorn
+	326921:       Advance
+	326988:       HD2
+	327117:       Essenze C70
+	327186:       Berry
+	327535:       Galaxy Spica
+	327571:       Corby text
+	327760:       Eve
+	327766:       Milestone
+	328101:       Pantone
+	328153:       Premium Waterproof
+	328610:       Xenium
+	328680:       Mirror II
+	328726:       BlackBerry Curve
+	328733:       BlackBerry Storm2
+	329846:       Premium
+	329858:       Solar Hybrid
+	329935:       newTouch S200
+	330002:       Tropical
+	330037:       Gent
+	330138:       Viera
+	330222:       Fanfun petit
+	330480:       Night Effect
+	330890:       Gent
+	331178:       Q9
+	331425:       Omnia II
+	331513:       Nexus One
+	333934:       Streak
+	333965:       Hype
+	333974:       Vodafone U1280
+	334673:       Liquid
+	335495:       C5
+	335917:       Tour2
+	337916:       Pulse
+	338702:       Shark 3
+	338956:       Quantico
+	339191:       DuoS
+	339297:       CorbyPOP
+	339375:       Duo
+	339553:       Eigen
+	339605:       Corby Lindy
+	339980:       Fold
+	340078:       XTV
+	340182:       Zhishang
+	340205:       MOTOROI
+	340329:       RBM2
+	340576:       Beat
+	340650:       Renown
+	340877:       Backflip
+	340966:       Convoy
+	341150:       Xperia X10 Mini
+	341259:       Backflip
+	341303:       Naite
+	341732:       SFR 114
+	342090:       Omnia PRO
+	342171:       
+	342179:       Caliber
+	342310:       CLIQ XT
+	342522:       Cute 547
+	342603:       Forever
+	342828:       Scarlet Phone
+	343144:       Chat 3G
+	343338:       MOTO Active Edition
+	343363:       Zhiling
+	343725:       Tao
+	343921:       Life
+	344069:       Viera Ketai
+	344089:       Premium 5 942SH
+	344164:       GALAPAGOS 005SH for Softbank
+	344453:       Shark
+	344562:       Devour
+	344732:       Milestone
+	344776:       Wave
+	345004:       Sunburst
+	345172:       Torino
+	345293:       Mini
+	345586:       Galaxy Europa
+	345725:       Helix
+	345947:       Incredible
+	346108:       Viewty GT
+	346204:       Desire
+	346359:       Xperia SO-01B for DoCoMo
+	346518:       Twist
+	346591:       i-Chat
+	346670:       Spiro
+	346740:       
+	346756:       Verizon Droid Incredible
+	346778:       Galaxy A
+	346890:       Taylor
+	346966:       Cookie Plus
+	347242:       Sirius
+	347299:       Milestone
+	347426:       Yahoo
+	347455:       Incredible
+	347490:       Reality
+	347537:       Opus One
+	347703:       Galaxy S
+	347797:       EVO 4G
+	348274:       Cookie Music
+	348391:       Etna
+	348407:       kanna
+	348508:       Imprint
+	348564:       Pearl 3G
+	348831:       XpressMusic
+	349056:       Rumor Touch
+	349382:       Zio
+	349730:       GT540 Optimus
+	349867:       Cookie Fresh
+	350080:       Sage
+	350281:       N8
+	350665:       Aloha
+	350722:       Curve 3G
+	350980:       Navigation Edition
+	351138:       EVO 4G
+	351216:       Link
+	351307:       Corby
+	351391:       
+	351420:       T3320
+	351685:       Viewty Smile
+	351762:       OmniaPRO4
+	351910:       Bold
+	352020:       Q7 EZPAD
+	352431:       Rumor
+	352555:       One Touch Xtra
+	352677:       T-Mobile Pulse
+	352827:       Incredible C
+	352917:       Gravity T
+	353012:       Smiley
+	353201:       Galaxy S
+	353346:       Genio
+	353589:       Curve
+	353742:       Mode
+	353856:       
+	354266:       Juke
+	354353:       Acclaim
+	354396:       
+	354413:       Aria
+	354461:       Xperia X10 Mini pro
+	354485:       Intercept
+	354533:       Vibrant
+	354574:       Saturn
+	354586:       Galaxy Apollo
+	354627:       G'zOne Rock
+	354690:       7 Trophy
+	354799:       One Touch Xtra
+	354873:       Town/Etna Plus
+	354923:       Galaxy Europa
+	354990:       XpressMusic
+	355159:       Diva
+	355249:       Sentio
+	355335:       Gravity 3
+	355456:       Prime
+	355540:       Galaxy S Captivate
+	355657:       Classic
+	355839:       MTC
+	356446:       Aquos 945SH
+	356535:       Freeform
+	356665:       HTC Vogue 200
+	356964:       Torch
+	357781:       Galaxy 3
+	357845:       Astound
+	357989:       Galaxy Tab
+	358153:       Chat
+	358257:       Xperia X8
+	358336:       Xperia SO-01B for DoCoMo
+	358448:       Parrot
+	358457:       Epic 4G
+	358503:       Fascinate
+	358540:       Galaxy S/Vibrant
+	358547:       Aria
+	358565:       SKY Izar
+	358579:       Galaxy U
+	358593:       SKY Vega
+	358676:       Optimus 7
+	358732:       Stream
+	358755:       Liquid Metal
+	359013:       MSGM8 II
+	359110:       Vu Plus
+	359161:       Ease
+	359203:       CAPTR II
+	359222:       Rambler
+	359261:       Eternity II
+	359352:       C5
+	359533:       Nite
+	359585:       dLite
+	359941:       Seek
+	360267:       Cosmos
+	360333:       FX
+	360547:       Opick
+	360597:       Innuendo
+	360695:       Chat
+	360771:       Black
+	360847:       Wave 723
+	360927:       Corby Plus
+	360994:       Lite Star TV
+	361068:       HTC Sapphire
+	361153:       MILESTONE 2
+	361234:       DEFY
+	361294:       Town
+	361360:       Spice
+	361417:       Vodafone 945
+	361509:       Cliq 2
+	361717:       New Chocolate
+	361804:       Wave 2
+	362117:       Quest
+	362366:       
+	362413:       Xcover 271
+	362489:       Xcover
+	362639:       Spiro Stealth Black
+	362708:       Yendo
+	362776:       TeaCake
+	363571:       Racer
+	363618:       Joe
+	363859:       Quantum
+	363868:       Omnia 7
+	363885:       Focus
+	364923:       Wave
+	365277:       Miss Sixty
+	365344:       Curve
+	365429:       Ascend
+	365452:       Transform
+	365699:       Jest
+	365766:       Pixon 12
+	365896:       Diva folder
+	366021:       Shark 2
+	366306:       Hazel
+	366591:       Wave 2
+	366748:       Optimus One
+	366801:       Axis
+	366837:       Messager III
+	367120:       Galaxy S SC-02B for DoCoMo
+	367341:       Surround
+	367375:       Galaxy S
+	367393:       IDEOS S7
+	367499:       Louvre
+	368055:       GALAPAGOS 007SH for Softbank
+	368118:       Aquos Shot 002SH
+	368339:       Optimus S
+	368399:       Incognito
+	368466:       HTC Desire X06HT for SoftBank
+	368473:       IS03 for KDDI
+	368578:       Optimus T
+	368729:       Galaxy S
+	368886:       Cookie Style
+	368956:       beTouch E140
+	369063:       beTouch E210
+	369169:       Liquid Mini
+	370866:       Optimus One
+	370886:       Vortex
+	370930:       Xperia Arc
+	371043:       Cookie Lite
+	371358:       Touch Diamond 2
+	371367:       Boston
+	371419:       Xperia PLAY
+	371477:       Star II
+	371544:       Optimus 2X
+	374477:       Galaxy 3 Apollo
+	374591:       Galaxy Mini
+	374648:       Galaxy Mini
+	374697:       Galaxy Mini
+	374746:       Galaxy Ace
+	375050:       Callisto
+	375295:       Omnia 7
+	375384:       7 Mozart
+	375443:       Desire S
+	375586:       5800w XpressMusic
+	375656:       Lynx 3D SH-03C for DoCoMo
+	375687:       Regza T-01C for DoCoMo
+	375759:       Pantech Sirius alpha IS06 for KDDI
+	375808:       Galapagos 003SH for SoftBank
+	375827:       Dell Streak 5
+	376663:       Ciena
+	376676:       Desire HD SoftBank
+	376693:       
+	376700:       Galaxy S Vibrant
+	376714:       Sky Vega XPress
+	376728:       EXPERIA X8
+	376735:       Optimus M
+	376747:       Galaxy K
+	376761:       Kobe
+	376775:       
+	376794:       Galaxy Tab SC-01C for DoCoMo
+	376805:       
+	376819:       TAKE
+	376833:       Continuum
+	376848:       Ideos
+	376878:       Sage
+	376890:       Mirach
+	376904:       Sky Vega Xpress
+	376918:       Optimus One
+	376933:       
+	376958:       Ascend
+	376976:       Optimux 2X
+	377003:       Glam
+	377022:       Optimus Mach
+	377037:       Optimus U
+	377076:       Knight
+	377090:       SKY
+	377105:       X10 mini
+	377112:       Apex
+	377126:       101 Internet Tablet
+	377141:       Optimus One
+	377155:       X10 Mini Pro
+	377162:       Quench Greco
+	377176:       Kyros MID7015
+	377191:       T-Mobile Comet
+	377444:       Galaxy S
+	377458:       
+	377473:       Optimus Z
+	377486:       Apollo
+	377493:       
+	377500:       Galaxy K
+	377507:       Galaxy 5
+	377520:       Ruth
+	377557:       IDEOS X2
+	377574:       7 Home Tablet
+	377593:       Galaxy S Hoppin
+	377659:       Defy
+	377674:       
+	377688:       Barnes &amp; Noble Nook Color
+	377720:       Gratia
+	377733:       LePhone
+	377743:       Regza Phone IS04 for KDDI
+	377758:       Galaxy S Fascinate
+	377778:       Xperia X8
+	377785:       
+	377806:       
+	377813:       Optimus V
+	377825:       Optimus One
+	377841:       Optimus Chic
+	377978:       One Touch 990
+	378134:       Optimus Black
+	378152:       Optimus Pad
+	378170:       Optimus Me
+	378240:       Champ
+	378303:       Xperia Neo
+	378427:       LYNX 3D SH-03C for DoCoMo
+	378478:       DM009SH for Disney Mobile - SoftBank
+	378527:       Galapagos 005SH for SoftBank
+	378558:       Atrix
+	378595:       Galaxy Player 70 Plus
+	378609:       Galaxy Gio
+	378622:       Galaxy S II
+	378649:       Wildfire
+	378741:       Xoom
+	378922:       Rio
+	379078:       Galaxy Indulge
+	379100:       Next3
+	379128:       Ideos X5
+	379153:       Optimus Chic
+	379209:       Galaxy Tab 10.1V
+	379260:       Xperia arc SO-01C for DoCoMo
+	379277:       IS05 for KDDI
+	379303:       Optimus chat L-04C for DoCoMo
+	379317:       MOVE
+	379391:       Racer
+	379447:       Xperia arc SO-01C for DoCoMo
+	379514:       X550 QUBE
+	379650:       Galaxy SL
+	379811:       beTouch E110
+	379856:       beTouch E200
+	379982:       Wildfire S
+	380047:       One Touch 908
+	380132:       beTouch E400
+	380194:       HD7
+	380286:       Incredible S
+	380322:       Xperia Pro
+	380353:       E6
+	380447:       Optimus 3D
+	380641:       Sensation
+	380697:       X7
+	381543:       Picasso
+	381578:       Vangogh
+	381596:       Genesis
+	381610:       Optimus Black
+	381626:       Marquee
+	381634:       Bryce
+	381648:       Gelato
+	381659:       Gelato Q
+	381671:       Thunderbolt
+	381866:       Medias N-04C for DoCoMo
+	381885:       Banter Touch
+	381955:       TouchPad
+	381982:       Veer
+	382059:       Speed2
+	382079:       MTS Alive
+	382101:       Garmin nuvifone
+	382442:       one touch 890D
+	383212:       Optimus One
+	384168:       SoundBox
+	384185:       Verde
+	384297:       EVO WiMAX ISW11HT for KDDI
+	384423:       Tap NX-G868
+	384449:       Princess
+	384469:       Lolie
+	384489:       Batman
+	384527:       ColorBox
+	384547:       Dynamic
+	384567:       Rhoma-Rhido
+	384587:       Nidji
+	384608:       Music Phone
+	384652:       Beat TV
+	384671:       TeleMAX
+	384692:       Speed
+	386137:       Spade
+	386157:       Hits TV
+	386175:       Steel
+	386191:       Ferro
+	386221:       Liquid MT
+	386366:       TPA60W
+	386372:       G100W
+	386511:       one touch 906
+	386528:       one touch 906Y
+	386719:       Vision
+	386776:       Optimus C
+	387624:       Droid Incredible 2
+	387639:       T-Mobile G2x
+	387654:       T-Mobile Sidekick 4G
+	387669:       Gem
+	387683:       Optimus Big
+	387704:       Galaxy Prevail
+	387720:       Galaxy Fit
+	387734:       Racer
+	387748:       FLIPOUT
+	387842:       ChaCha
+	387902:       Galaxy S Plus
+	388329:       Cedar
+	388405:       MomoDesign Touch
+	388430:       MomoDesign MD Cube
+	388455:       MomoDesign MD-302
+	388476:       Thrill
+	388514:       Lynx
+	388532:       Aria S31HT for E-Mobile
+	388541:       Pocket WiFi S for emobile
+	388555:       AQUOS PHONE SH-12C for DoCoMo
+	388571:       AQUOS PHONE SoftBank 006SH
+	388585:       Light Tab
+	388600:       IDEOS
+	388620:       Desire HD SoftBank
+	388655:       HTC EVO WiMAX
+	388675:       Droid Pro
+	388756:       Optimus Chat
+	388877:       Galaxy Pro
+	388957:       Infuse
+	389042:       Sensation
+	389219:       Galaxy Tab 10.1
+	389274:       EVO 3D
+	389550:       Star II Duos
+	389677:       Galaxy S SC-02B for DoCoMo
+	389691:       Galaxy S SC-02B for DoCoMo
+	389723:       X0H6T
+	389936:       GALAPAGOS
+	389953:       GALAPAGOS
+	389978:       AQUOS Phone
+	389993:       AQUOS PHONE IS11SH for KDDI au
+	390007:       3D AQUOS PHONE IS12SH for KDDI au
+	390033:       Xperia acro
+	390052:       Medias WP N-06C for DoCoMo
+	390067:       Optimus bright L-07C for DoCoMo
+	390112:       GALAXY S
+	390173:       Optimus Chat
+	390302:       Wave 533
+	390372:       Aspen
+	390592:       INFOBAR A01 for KDDI au iida
+	390612:       Xperia ray SO-03C for DoCoMo
+	390644:       REGZA Phone IS11T for KDDI
+	390660:       AQUOS PHONE f SH-13C for DoCoMo
+	390696:       Dominoq
+	390710:       T7
+	390740:       
+	390853:       Monza
+	390879:       Dakota
+	390939:       PosteMobile PM1152 Tabula
+	390955:       PosteMobile PM1107 Smart
+	391911:       Metro Duos
+	392194:       Metallic Gray
+	392638:       IDEOS X1
+	392706:       Milestone 3
+	392779:       Galaxy Tab 10.1
+	392830:       Revolution 2
+	393184:       Urushi
+	393291:       Xperia Mini Pro
+	393378:       Optimus 7
+	393474:       Droid Charge
+	393488:       Replenish
+	393503:       G'zOne Commando
+	393518:       Galaxy Y
+	393655:       Galaxy Neo
+	393966:       Kyros MID7015A
+	394388:       Thunderbolt 4G
+	394426:       Eee Pad Transformer TF101
+	394466:       EVO Shift 4G
+	394644:       Xperia Mini
+	394714:       Galaxy S II X
+	394803:       Torch 4G
+	395974:       Liquid Express
+	396451:       Prada 3.0
+	397229:       Optimus Hub
+	397291:       Xperia Arc
+	397361:       One Touch 602
+	397884:       Droid Bionic 4G
+	397946:       Vancouver
+	398036:       Sonic
+	398111:       Wildfire
+	398149:       Arnova A80KSC
+	398167:       7c Home
+	398543:       Revolution
+	398639:       TXT
+	398861:       Photon
+	398992:       Omnia W
+	399075:       Picasso_E
+	399984:       XCD35
+	400001:       Twist
+	400122:       Curve
+	400385:       Xperia Neo V
+	400598:       LePhone DONUT
+	400645:       WildFire WCDMA
+	400661:       SKY Vega X+
+	400675:       WildFire TD
+	400681:       Pulse FROYO
+	400695:       Desire FROYO
+	400703:       EVO 3D ISW12HT for KDDI
+	400711:       Ericsson mini for emobile
+	400725:       Xperia PLAY SO-01D for DoCoMo
+	400744:       Vision 007HW for Softbank
+	400760:       PHOTON ISW11M for KDDI
+	400775:       MEDIAS PP N-01D for DoCoMo
+	400790:       STAR7 009Z for Softbank
+	400806:       REGZA Phone T-01D for DoCoMo
+	400821:       F-12C for DoCoMo
+	400837:       smart bar S42HW for emobile
+	400851:       Optimus Pad
+	400868:       Sweety 003P for Softbank
+	400877:       LUMIX Phone 101P for Softbank
+	400893:       LUMIX Phone P-02D for DoCoMo
+	400909:       AQUOS Phone IS13SH for KDDI
+	400931:       Simple Smartphone 008Z for Softbank
+	400940:       GALAXY S II LTE SC-03D for DoCoMo
+	400956:       P-07C for DoCoMo
+	400972:       P-01D for DoCoMo
+	400988:       ARROWS Z ISW11F for KDDI
+	401011:       MIRACH IS11PT for KDDI
+	401026:       Desire HD
+	401035:       AQUOS PHONE SH-01D for DoCoMo
+	401050:       G'z One IS11CA for KDDI au
+	401066:       Pocket WiFi S II for emobile
+	401088:       SKY Vega Racer (SKT)
+	401096:       SKY Vega Racer (KT)
+	401102:       SKY Vega Racer (LG U+)
+	401110:       ARROWS Kiss F-03D for DoCoMo
+	401124:       Galaxy S II SC-02C for DoCoMo
+	401130:       GALAXY S II (SKT)
+	401139:       GALAXY S II (KT)
+	401147:       GALAXY S II (LG U+)
+	401155:       AQUOS PHONE THE HYBRID 101SH for Softbank
+	401177:       AQUOS PHONE THE PREMIUM 009SH for Softbank
+	401194:       Optimus Black
+	401200:       LePhone FROYO
+	401216:       Galaxy S CU FROYO
+	401230:       WildFire TD Mini
+	401244:       LePhone FROYO
+	401261:       Optimus 3D
+	401267:       GALAXY Tab (LG U+)
+	401273:       GALAXY Tab (LG U+)
+	401286:       GALAXY Tab (SKT)
+	401309:       TAKE 2
+	401325:       MOTOROI
+	401340:       Ascend
+	401413:       Quench XT5
+	402200:       Primo
+	402284:       Wave 3
+	402471:       ThinkPad Tablet
+	402792:       Galaxy SII
+	405440:       C3-01 Gold Edition
+	405984:       Vivo
+	406163:       Tactile Internet
+	406329:       Touch Tablet
+	406376:       Xperia Arc HD
+	406457:       Galaxy Note
+	406702:       Wave M
+	406870:       Asha 200
+	406997:       Asha 300
+	407132:       Galaxy Tab 8.9
+	407152:       One Touch 810D
+	407239:       RAZR XT910 Spider
+	407310:       Onda MyTab
+	407687:       Kindle Fire
+	407786:       Galaxy Tab 8.9
+	407858:       G Slate
+	407934:       Titan
+	408376:       Bling
+	408385:       Ayxta
+	408488:       Galaxy S II
+	408559:       Gravity Smart
+	408686:       Admire
+	408755:       
+	408796:       Triumph
+	409072:       Galaxy Tab 7
+	409269:       Galaxy SII Epic 4G Touch
+	409340:       Droid 3
+	409398:       Exhibit II 4G
+	409461:       Exhibit 4G
+	409524:       Merge
+	409603:       Ascend II
+	409618:       Score
+	409849:       Restore
+	409980:       Galaxy S II HD
+	410040:       Mirach A
+	410112:       Optimus LTE
+	410139:       Encore
+	410241:       Raider 4G
+	410262:       Asha 303
+	410412:       Omnia Pro 5
+	410802:       Precedent
+	410873:       Droid Razr
+	410939:       Multipad M7
+	410987:       Touch eReader
+	411032:       Telstra Smart-Touch
+	411048:       
+	411054:       Dell XCD35
+	411064:       RBM C
+	411104:       Turkcell T10
+	411124:       Vodafone 845
+	411163:       Tania
+	411218:       7 pro
+	411276:       Gleam+/WX308
+	411306:       Rumor Plus
+	411393:       Champ 3.5G
+	411410:       Walkman 8
+	411567:       Focus S
+	411778:       Transformer Prime
+	411834:       
+	412228:       Galaxy S II LTE
+	412246:       Galaxy Note
+	412280:       Desire GINGERBREAD
+	412303:       Galaxy S II HD
+	412330:       Galaxy S CU ECLAIR
+	412343:       Galaxy Tab (KT)
+	413118:       Smakit S7
+	413223:       Vega
+	413327:       GT-S8500L Wave
+	413428:       Kyros MID7024
+	413443:       70c eReader
+	413458:       M721 MID Tablet
+	413519:       Smart Tab 7
+	413559:       
+	413632:       Explorer
+	414192:       Tap TV NX-G868T
+	414220:       Flo
+	414280:       Element
+	414390:       GALAXY Tab 7.0 Plus
+	414457:       Galaxy Tab 7.7
+	414605:       Blackberry 9380 Curve
+	414701:       BlackBerry Bold 9790
+	414902:       Ezpad
+	414948:       M5700 Flo
+	415045:       Live
+	415207:       Galaxy W
+	415685:       Digno ISW11K
+	415703:       Optimus LTE
+	415728:       ARROWS Tab LTE F-01D
+	415749:       ARROWS X LTE F-05D
+	415771:       AQUOS PHONE slider SH-02D
+	415864:       Kepler
+	416088:       Galaxy Y Duos
+	416234:       Optimus L3
+	416300:       Galaxy Pop
+	416486:       Kyros MID7010
+	416559:       Droid XYBoard 10.1
+	416575:       Breakout
+	416591:       Rezound
+	416607:       Droid 4
+	416625:       Droid Razr 4G
+	416667:       Droid XYBoard 8.2
+	416683:       Droid XYBoard 8.2 4G
+	416693:       Galaxy S II Skyrocket
+	416760:       Volt
+	416912:       EL600Dual
+	416939:       MV 124 Phone Theatre
+	416980:       IN 2040 NX V.DO Power
+	417506:       EVO 4G+
+	417522:       Galaxy S II NFC
+	417580:       Galaxy S Armani
+	417698:       Transform Ultra
+	417716:       T-Hub
+	417785:       Eluga
+	417854:       Galaxy Ace Plus
+	417924:       BlackBerry Curve 9320
+	418017:       Asha 302
+	418155:       Viper T565
+	418253:       Mini 3iX
+	418269:       C375 Cookie Tweet
+	418358:       T515 Cookie Duo
+	418454:       Duos TV
+	418615:       Ch@t 527
+	418701:       Rugby II
+	418796:       
+	418827:       IdeaPad A1 Tablet
+	418876:       Rex 60 Duos
+	418903:       Rhyme
+	418921:       Milano
+	419046:       Tablet PC
+	419061:       Chorus
+	419077:       Premium8
+	419097:       DM010SH for Disney Mobile - SoftBank
+	419125:       ARROWS u F-07D
+	419140:       Disney Mobile F-08D
+	419157:       Galaxy Y Pro
+	419219:       Galaxy Pro
+	419314:       Galaxy Tab 7.0 Plus
+	419335:       Galaxy Tab 10.1N
+	419379:       Xcover
+	419504:       EVO 3D
+	419510:       EVO 3D
+	419532:       Vivid 4G
+	419548:       Rhyme
+	419565:       Sensation XL with Beats Audio
+	419591:       Status
+	419608:       Wildfire S
+	419618:       Wildfire S
+	419629:       Wildfire S
+	419750:       Mediapad
+	419791:       Impulse 4G for AT&amp;T
+	419853:       Fusion for AT&amp;T
+	419960:       Ascent G 300
+	420035:       Mirach A
+	420048:       Vega LTE
+	420066:       Vega LTE M
+	420086:       Vega LTE EX
+	420101:       Vega No 5
+	420129:       Optimus X
+	420145:       MEDIAS BR IS11N
+	420160:       Arrows ES IS12F
+	420174:       Aquos Phone IS14SH
+	420190:       Galaxy SII WiMAX
+	420207:       Vox eReader
+	420231:       TAKE Janus
+	420246:       TAKE Tachy
+	420261:       PRADA
+	420276:       Optimus 2
+	420289:       DoublePlay
+	420303:       myTouch Q
+	420327:       myTouch E739BK
+	420407:       Marquee
+	420414:       Optimus Q2
+	420468:       Optimus One
+	420532:       Phoenix
+	420609:       Optimus Dual Sim
+	420674:       Optimus 3D
+	420808:       Nook Simple Touch
+	420828:       Flytouch 3 Disco 10
+	420844:       A7 Internet Tablet
+	420859:       Identity Tab
+	420873:       Detail
+	420881:       Optimus Quantum Chic
+	420888:       Kyros MID1024
+	420905:       Kyros MID8024
+	420921:       Express Plus
+	420935:       Spice MI410
+	420987:       Echo
+	421004:       Crossover
+	421065:       HANNS pad
+	421080:       XPRT
+	421092:       Milestone Plus
+	421107:       DoubleTime
+	421173:       Dart
+	421412:       FX Plus
+	421482:       Galaxy Player 5
+	421513:       Premium 7
+	421536:       Premium9
+	421551:       7inch Internet Tablet
+	421584:       Cruz PS47
+	421668:       Plenue
+	421694:       Kyros MID1125
+	421711:       Kyros MID1126
+	421728:       Kyros MID7012
+	421749:       Kyros MID7016
+	421764:       Kyros MID7022
+	421781:       Kyros MID7120
+	421796:       Kyros MID7125
+	421813:       Kyros MID8120
+	421829:       Kyros MID8125
+	421845:       Kyros MID8127
+	421907:       Ideos X6
+	421972:       Ignite
+	421979:       Optimus Net
+	421993:       Optimus Q
+	422010:       Optimus Slider
+	422018:       Enlighten
+	422038:       Pocket
+	422096:       EVO 3D
+	422104:       Transfix
+	422137:       Conquer
+	422151:       EVO Design 4G
+	422175:       Avail
+	422280:       Impression 10
+	422295:       Hero S
+	422302:       Vision
+	422331:       Glory
+	422346:       Atrix 2
+	422364:       Droid X
+	422380:       Milestone X2
+	422472:       Burst
+	422489:       Captivate Glide
+	422505:       Illusion
+	422519:       Stratosphere
+	422535:       Repp
+	422554:       Admiral
+	422569:       Galaxy Player 4.0
+	422594:       Galaxy Attain 4G
+	422607:       Galaxy S Blaze 4G
+	422659:       Xoom
+	422691:       Galaxy Tab 10.1 4G
+	422773:       GALAXY Tab 7.0 Plus 4G
+	422780:       Galaxy Tab 10.1 4G
+	422788:       Eee Pad SL101 Slider
+	422812:       Regza AT1S0
+	422825:       Evo View 4G Tablet
+	423034:       Smart II 3G
+	423096:       One S
+	423166:       One X
+	423188:       Galaxy Ace
+	423271:       Galaxy Note LTE
+	423300:       Galaxy Note LTE
+	423312:       Galaxy Y
+	423368:       Galaxy Note LTE
+	423473:       Asha 301
+	423692:       Asha 201
+	423831:       5132 XpressMusic
+	424030:       Asha 202
+	424159:       Asha 203
+	424354:       Oro
+	424808:       Optimus EX
+	424837:       Lephone A60
+	424878:       M1 Plus
+	424894:       NEXT series MEDIAS LTE N-04D
+	424941:       Galaxy Pop
+	424954:       Q-pot.Phone SH-04D
+	424969:       Galaxy SII HD
+	424985:       Galaxy Note
+	425009:       Galaxy Gio
+	425026:       Galaxy M Style
+	425042:       Galaxy Tab 10.1
+	425061:       Xperia TM NX SO-02D
+	425076:       Sonic
+	425103:       Xperia Play SO-01D
+	425123:       Campaign
+	425162:       Evolution
+	425182:       Player 4
+	425196:       Blade
+	425204:       
+	425211:       Blade
+	425240:       TXTM8
+	425296:       Jill Sander
+	425347:       PRIME series CA-01C
+	425359:       STYLE series F-02D
+	425372:       PRIME series F-09C
+	425385:       STYLE series F-10C
+	425400:       SMART series F-11C
+	425413:       STYLE series N-02D
+	425426:       STYLE series N-03D
+	425439:       SMART series N-05C
+	425453:       STYLE series P-03D
+	425466:       STYLE series P-04C
+	425479:       PRIME series P-05C
+	425492:       STYLE series SH-03D
+	425505:       PRIME series SH-10C
+	425518:       STYLE series SH-11C
+	425532:       Presto
+	425638:       Rio
+	425757:       Beacon
+	425770:       Revere
+	425799:       MOTOKEY Mini
+	425881:       MOTOKEY XT
+	426061:       Theory
+	426074:       Play
+	426123:       Innuendo
+	426137:       Wave Y
+	426154:       Focus Flash
+	426209:       Snap
+	426223:       Cappucino
+	426249:       Chat 222
+	426271:       Chat
+	426285:       Flight II
+	426318:       M6700 Cappuccino
+	426393:       Aquos Phone 103SH
+	426422:       Chrono
+	426435:       Contour
+	426519:       Galaxy Player 3.6
+	426685:       Flying A602
+	426698:       A9100 S2
+	426714:       Galaxy Note 10.1
+	426783:       Galaxy Tab 7.7
+	426797:       Galaxy Tab 10.1
+	426811:       105
+	426827:       T Mobile Move Balance
+	426903:       Music Phone P70
+	426931:       Smart Pad 700 3G
+	426991:       Olipad Smart
+	427002:       Monte Carlo
+	427011:       Orion
+	427098:       Tablet P
+	427151:       My Tab+
+	427170:       Honor
+	427429:       Memo
+	427526:       Domino
+	427579:       Wine 2
+	427591:       Neon 2
+	427600:       Optimus Spirit
+	427664:       Saber
+	427678:       Envoy
+	427701:       Bali
+	427716:       m240
+	427823:       Porsche Design 9981
+	427972:       Galaxy 5
+	428126:       Galaxy Mini
+	428137:       Boulder
+	428270:       Sonic
+	428370:       ChaChaCha
+	428380:       Star III Duos
+	428538:       Allegro
+	428635:       Optimus Pro
+	428755:       NOOK Tablet
+	428773:       Connect 4G
+	428849:       NOOK Tablet
+	428857:       Galaxy S II
+	428889:       Sprint Express
+	429097:       T-Mobile Vivacity
+	429174:       Kyros MID7127
+	429210:       MB702
+	429226:       Skypad Alpha2
+	429564:       Galaxy Tab 2 7.0
+	429634:       Galaxy Tab 2 10.1
+	429718:       Galaxy S III
+	429951:       Jex Tab 710
+	429965:       Galapagos
+	429980:       Xperia P LT22i
+	430052:       Xperia U
+	430149:       Galaxy S Advance
+	430219:       Reader Wi-Fi
+	430234:       Saber UN200
+	430627:       Galaxy Pocket
+	430691:       Galaxy Pop Plus
+	430754:       EVO 3D
+	430840:       Pillar
+	430855:       Activa 4G
+	431090:       Marimba
+	431200:       Optimus Elite
+	431234:       Pursuit II
+	431320:       Galaxy Young CDMA
+	431334:       Galaxy M Style
+	431431:       Lucid
+	431538:       Defy Mini
+	431606:       MOTO XT882
+	431648:       Movistar One
+	431842:       Freestyle
+	431902:       Champion
+	431916:       Crux
+	431930:       Tabbee
+	431937:       Honey Bee Box
+	431953:       
+	432046:       One Touch 918D
+	432335:       Nokia 800
+	432341:       Nokia 800c
+	432352:       Galaxy Mini 2
+	432418:       Zylo
+	432532:       Google Bot
+	432573:       Optimus Vu
+	432588:       Optimus LTE TAG
+	432604:       Optimus 3D Cube
+	432625:       TAKE HD
+	432676:       Personal Touch
+	432798:       Xperia Tipo
+	432819:       Xperia T
+	432947:       Chat 655
+	432954:       One Touch 995
+	433041:       Ascend P1
+	433185:       Galaxy SII LTE
+	433280:       Exhilarate
+	433427:       Xoom 2
+	433466:       Lisbon
+	433645:       Asha 311
+	433666:       Desire C
+	433911:       One Touch 710A
+	434047:       Maxi Plus 5
+	434163:       CloudMobile
+	434385:       JetStream
+	434437:       Find
+	434566:       GALAXY S DUOS
+	434708:       Galaxy Ace Duos
+	434720:       Quattro
+	434789:       Lady
+	434906:       Galaxy Tab 8.9 LTE
+	434922:       Galaxy SII
+	435004:       One Touch 918A
+	435010:       One Touch 918A
+	435047:       Arrive
+	435068:       Focus 2
+	435125:       Focus
+	435157:       Motokey WiFi
+	435203:       MOTOKEY Mini
+	435285:       Scarlet II
+	435406:       Aquos 104SH
+	435424:       Honey Bee
+	435440:       Rugby Smart
+	435525:       Xperia acro HD
+	435549:       Vandroid T2CI
+	435564:       Vega Racer 2
+	435590:       Galaxy Ace S5820
+	435601:       EVO 3D
+	435640:       LePad S2005A-H
+	435659:       Galaxy S Duos
+	435704:       Ascend G300
+	435816:       Defy XT
+	435873:       One XT
+	435880:       Desire VT
+	435895:       Desire V
+	435929:       Ascend C8812
+	435991:       MX
+	436065:       Destino
+	436083:       Sensation 4G
+	436094:       
+	436151:       One Touch 900M
+	436168:       Aeon
+	436258:       Orange Sydney
+	436333:       J
+	436352:       Urbano Progresso
+	436371:       Aquos Phone Serie
+	436389:       Aquos Phone SL
+	436415:       Hollywood Orange
+	436505:       Ascend Y201 Pro
+	436635:       Titan II
+	436667:       Xperia Ion
+	436738:       Xperia Ion LTE
+	436755:       Xperia GX
+	436828:       Xperia GX
+	436847:       acro HD IS12S
+	436916:       Xperia Acro S
+	436925:       Xperia SX
+	436958:       Xperia Go
+	437058:       Xperia TL
+	437083:       Xperia Sola
+	437160:       Xperia neo L
+	437174:       Xperia Tipo Dual
+	437278:       Fire XT
+	437461:       Optimus M+
+	437486:       Xperia miro
+	437559:       Xperia Tipo Dual
+	437651:       Excite AT200
+	437673:       Transformer Pad TF300T
+	437694:       7 G2
+	437795:       One Touch 991 Play
+	437852:       Optimus L7
+	437922:       Viper 4G LTE
+	437994:       Rumor Reflex
+	438081:       Optimus it
+	438099:       Prism
+	438166:       Ascend G300C
+	438266:       Galaxy Y TV
+	438343:       Galaxy Tab 2 10.1 WiFi
+	438367:       Asha 3050
+	438483:       EasyPad 970 Satellite
+	438498:       Hydro C5170
+	438511:       Rise C5155
+	438596:       Bliss
+	438616:       Optimus 4X HD
+	438688:       Optimus 4G LTE
+	438754:       Xperia Active
+	438834:       Xperia Go
+	438886:       Atrix 2
+	438987:       Motoluxe XT389
+	439049:       One Touch 720D
+	439118:       Galaxy Ace Duos
+	439289:       Optimus G
+	439333:       Kyros MID7026
+	439354:       Smartpad 711i
+	439396:       XOOM 2 ME
+	439402:       XOOM 2 ME 3G
+	439431:       Vi40 Elite
+	439450:       Link II
+	439466:       Laser
+	439481:       MultiPad 5080 Pro
+	439593:       Galaxy S Aviator
+	439608:       Galaxy Proclaim
+	439618:       Gusto 2
+	439671:       Galaxy Appeal
+	439762:       AQUOS SH-06D
+	439780:       Galaxy Victory 4G LTE
+	439883:       Ascend Y200
+	439947:       Venture
+	440016:       Spectrum 2
+	440117:       Defy Pro
+	440132:       Motosmart Flip
+	440202:       Atrix TV
+	440270:       Photon Q 4G LTE
+	440299:       Optimus L5
+	440324:       Atrix HD
+	440379:       One Touch 310A
+	440422:       for Vodafone
+	440457:       Omnia M
+	440531:       Xcover 2
+	440544:       One Touch 983
+	440570:       Droid Incredible 4G LTE
+	440646:       EVO 3D
+	440653:       Merit
+	440673:       Galaxy Ace 2
+	440742:       Galaxy Ace 2 NFC
+	440755:       Galaxy SIII LTE
+	440861:       Melody
+	440953:       Athena
+	441285:       Titan
+	441348:       Jorian
+	441417:       STYLE series SH05D
+	441439:       One Touch 358 Tribe
+	441510:       Optimus L9
+	441600:       IdeaTab A2109A
+	441618:       Transformer Pad TF700T
+	441633:       Transformer Pad TF700 LTE
+	441643:       Galaxy Stellar 4G
+	441677:       Galaxy Player 5.8
+	441703:       One Touch 602D
+	441711:       Art
+	441740:       Regza AT300
+	441785:       Optimus Vu
+	441851:       Droid X2
+	441858:       Droid Razr HD
+	441901:       Galaxy Rugby Pro
+	441974:       Galaxy Tab 7.7 LTE
+	442015:       Galaxy Camera
+	442093:       Galaxy Note II
+	442115:       Aquos Phone ST
+	442132:       iDEN i365/i365is
+	442141:       iDEN i890/i897
+	442158:       iDEN i410
+	442173:       Brute
+	442189:       Moka
+	442205:       Gallo
+	442227:       Clutch
+	442268:       One XL
+	442277:       Optimus LTE
+	442345:       Optimus L3
+	442425:       EVO 4G LTE
+	442540:       Motion 4G
+	442632:       Curve 9310
+	442724:       Curve 9350
+	442814:       One Touch 595D Tribe
+	442910:       One Touch 585D
+	442997:       Galaxy S III LTE International
+	443036:       Galaxy S3 LTE
+	443149:       Next8P12
+	443214:       Galaxy S Relay 4G
+	443280:       Lumia 920
+	443442:       Ascend Y100
+	443506:       Marauder
+	443579:       One Touch 918S
+	443588:       BlackBerry Curve 9370
+	443689:       Galaxy S Duos
+	443768:       Optimus Plus
+	443794:       Optimus LTE2
+	443828:       Escape
+	443896:       Splendor
+	443914:       Xperia SL
+	443988:       Kyros MID1042
+	444006:       RAZR i
+	444042:       Galaxy R
+	444072:       Xperia V
+	444099:       Intuition
+	444139:       Electrify 2
+	444156:       RAZR V XT885
+	444225:       RAZR M 4G LTE
+	444256:       Liberio
+	444271:       Sweetia
+	444291:       Galaxy SII 4G
+	444300:       
+	444322:       myTouch Q
+	444423:       Windows Phone 8X
+	444572:       One X+
+	444603:       MOTOTV 2
+	444878:       Breeze
+	444984:       DROID RAZR M 4G LTE
+	445015:       Xperia Z
+	445317:       BlueBerry Princess
+	445336:       Optimus Zip
+	445611:       Galaxy Note II 4G LTE
+	445623:       Galaxy Express
+	445708:       IdeaTab A1107
+	445727:       Galaxy Note 10.1 WiFi
+	445747:       Xperia J
+	445814:       One Touch 918
+	445824:       One Touch 903
+	446137:       Kindle Fire HD 7
+	446154:       Kindle Fire 7
+	446171:       myTouch
+	446246:       Galaxy Rush
+	447143:       Chat 655W
+	447152:       Galaxy Pocket Duos
+	447229:       One Touch 985
+	447308:       Quattro 4G
+	447450:       Skin
+	447650:       Galaxy S III Mini
+	447776:       Kindle Fire HD 8.9
+	447863:       Galaxy Note 10.1 LTE
+	448035:       Galaxy Tab 8.9 LTE
+	448264:       
+	449417:       Internet 7
+	449429:       Ministone
+	449511:       One Touch 585DF
+	449527:       One Touch 905
+	449606:       One Touch 905A
+	449625:       Q100
+	449638:       One Touch 900
+	449645:       One Touch 900A
+	449661:       Smart Chat
+	449730:       Thump
+	449744:       Mighty
+	449772:       Asha 308
+	449885:       Funbook Talk
+	449908:       Galaxy Chat
+	449974:       A25 Smarty
+	449991:       Kyros MID9742
+	450007:       Ninja
+	450033:       Superfone Lite
+	450046:       Kyros MID8042
+	450061:       Superfone Punk
+	450074:       One Touch 918N
+	450081:       Ninja 4
+	450096:       Ninja 3
+	450126:       Titan
+	450140:       XStream E781A
+	450162:       Kyros 7033
+	450191:       Konnect
+	450206:       Touch
+	450221:       Nook HD+ Tablet
+	450252:       AndroTab S7
+	450410:       Inspire 3D
+	453716:       Superfone Canvas 2
+	453731:       Noir
+	453744:       Superfone Punk
+	453758:       Aisha
+	453784:       Superfone Canvas
+	453799:       One Touch 985N
+	453806:       Droid DNA
+	453841:       J Butterfly
+	453848:       J Butterfly
+	453894:       Lumia 920
+	453973:       Xperia VL
+	453982:       Xperia VL
+	453992:       Xperia Tablet S
+	454268:       
+	454319:       Xperia Tipo Dual
+	454340:       One Touch 997
+	454395:       One Touch 997D
+	454404:       Utica
+	454529:       Hisense E860
+	454567:       A7
+	454579:       Xperia Tipo Dual
+	454586:       Superfone Pixel
+	454602:       Galaxy Ace Duos
+	454659:       Kyros MID7036
+	454675:       Kyros MID7042
+	454704:       Asha 309
+	454806:       One Touch 585A
+	454815:       QWERTY V1676
+	454845:       One Touch 361A
+	454862:       Blink/Tango
+	455019:       Kindle Fire HD 8.9 4G
+	455044:       Galaxy Player 4.2
+	455062:       Evolution II
+	455215:       Gleam
+	455323:       Galaxy Premier
+	455395:       Galaxy Music
+	455462:       Galaxy Y Pop
+	455479:       Galaxy Ace
+	455492:       Aquos Phone CL
+	455568:       Venice
+	455630:       Action
+	455692:       quasar
+	455751:       Optimus Regard
+	455772:       Optimus L9
+	455872:       Galaxy Stratosphere II
+	455903:       for Verizon
+	455911:       Galaxy Ace Plus
+	455924:       ATIV Odyssey
+	456066:       A9660 Mini
+	456094:       One Touch 319
+	456166:       Desire X
+	456265:       Quattro 5860e 4G
+	456280:       Mtag 3.1
+	456320:       ME U1
+	456338:       Funbook Alpha
+	456354:       Girls
+	456368:       Style Series F-04D
+	456419:       One Touch 506
+	456502:       One Touch 506D
+	456509:       One Touch 506A
+	456518:       One Touch 870
+	456599:       One Touch 870A
+	456606:       One Touch 870X
+	456613:       Xperia E
+	456627:       Xperia E Dual
+	456642:       One Touch 902
+	456724:       One Touch 902A
+	456733:       One Touch 308
+	456799:       One Touch 308A
+	456808:       Xpression
+	456900:       Cute 547i
+	456992:       Alice
+	457031:       for Orange
+	457048:       Windows Phone 8X
+	457055:       Windows Phone 8X
+	457067:       Windows Phone 8X
+	457074:       Windows Phone 8X
+	457080:       Windows Phone 8X
+	457106:       Aquos Shot 945SH
+	457135:       One Touch 665
+	457219:       One Touch 665A
+	457523:       One Touch 818
+	457783:       Ascend Y100
+	457845:       Ch@t
+	457939:       VanitySmart
+	458020:       legend
+	458081:       Wilco
+	458152:       PadFone 2
+	458397:       Motosmart Me
+	458470:       One Touch 768 3G
+	458482:       8S
+	458489:       Xperia ZL
+	458529:       Deluxe
+	458536:       J
+	458559:       Fusion 2
+	458627:       Optimus L5 Dual
+	458700:       Optimus G
+	458780:       Galaxy Note 10.1 LTE
+	458789:       Galaxy Note 10.1 LTE
+	458797:       Kyros MID7034
+	458814:       Kyros MID8048
+	458844:       Nook HD Tablet
+	458863:       Klu
+	458942:       Kyros MID7048
+	458967:       One V
+	459226:       One Touch 639G
+	459467:       One Touch Tribe 838
+	459624:       Windows Phone 8X
+	459670:       Nabi 2
+	459884:       Pantone WX01SH
+	459916:       IdeaTab A2107A-H
+	459931:       IdeaTab A2107A-F
+	459943:       One Touch 991T Play
+	459969:       SurfTab Breeze 7.0
+	460090:       One Touch 903A
+	460096:       One Touch 903D
+	460106:       Wemove Atlantis
+	460339:       Ascend Y210
+	460408:       A06
+	460517:       One
+	460807:       Galaxy Pocket Plus
+	460975:       Optimus 3D Max
+	461079:       Olipad 3
+	461415:       8000
+	461444:       Microbee Origin 7100
+	461496:       RK2818 SDK
+	461555:       Galaxy Music Duos
+	461563:       A68 Smarty
+	461616:       Iris N400
+	461939:       Funbook Infinity P275
+	461972:       A54 Smarty 3.5
+	461984:       Iris N350
+	462024:       Excellent 7-II
+	462053:       Optimus Logic
+	462068:       Warp
+	462087:       Patagonia 9620
+	462177:       Asha 205
+	462396:       FG8
+	462433:       One Touch 992D
+	462507:       Galaxy Grand Duos
+	462592:       Ascend Y H866C
+	462605:       One Touch 960C
+	462625:       Noir A8
+	462655:       Noir A10
+	462726:       CLIQ DEXT
+	462796:       Galaxy SII Plus
+	462902:       Desire VC
+	462984:       Honor +
+	463047:       Ascend G600
+	463056:       Honor 2
+	463118:       Optimus G
+	463154:       Cosmos Touch
+	463168:       Extravert
+	463186:       Octane
+	463202:       Prestige
+	463222:       Optimus G Pro
+	463365:       Mach LS860
+	463456:       Banter Touch
+	463470:       Fathom
+	463580:       Pro+
+	463665:       RAZR i
+	463814:       Smart Pad MP907C
+	463896:       Solstice II
+	463992:       Galaxy S III Alpha
+	464029:       Galaxy SII HD LTE
+	464096:       Aquos Phone Zeta
+	464215:       Galaxy Note II LTE
+	464254:       Restore
+	464275:       Pascal
+	464305:       Convoy 2
+	464338:       Taho
+	464355:       Remarq
+	464414:       Lotus Elite
+	464519:       Trender
+	464572:       Vero
+	464630:       Incognito
+	464686:       Protab 2
+	464701:       Andy Tab
+	464734:       Shine
+	464796:       Ascend D1 Quad
+	464884:       Motoluxe
+	465099:       Suede
+	465156:       Vega S5
+	465192:       Vega R3
+	465250:       Optimus Vu II
+	465310:       for KT
+	465354:       Ninja
+	465365:       A89 Ninja
+	465384:       Iris 351
+	465406:       Iris 501
+	465452:       Aqua Marvel
+	465502:       Galaxy S4
+	465558:       Galaxy Note 8.0
+	465624:       Galaxy Note 8.0 WiFi
+	465634:       Ilium S50
+	465738:       Avid 4G
+	465836:       Galaxy Express
+	465901:       Optimus G Pro
+	465962:       Galaxy Ace II x
+	466062:       FX2 PAD10
+	466210:       Smart Touch
+	466226:       4.0 Multi-Touch 9.7
+	466246:       Stealth i7520
+	466261:       One Touch T10
+	466293:       FJ Vortex
+	466326:       MultiPad PMP3770B
+	466429:       Iconia B1-A71
+	466521:       MultiPad 5197D ULTRA
+	466562:       Liquid Gallant E350
+	466600:       Comet
+	466615:       Pantone 5 107SH
+	466650:       Easy Home Tablet 7 LE
+	466694:       Max M1
+	466731:       Iconia Tab A110
+	466770:       Spirit 4G
+	466785:       Nova 4.0
+	466836:       Xperia Tablet Z LTE
+	466860:       Light Tab V9C
+	466896:       MeMO Pad Smart 10
+	466952:       Optimus Dynamic
+	467021:       Concord
+	467079:       Uno
+	467190:       Ascend Q
+	467259:       10b G3
+	467290:       IDEOS X3
+	467302:       Tueris
+	467393:       Wizard Plus
+	467407:       Smart Touch II
+	467489:       Liquid Glow E330
+	467507:       Hydro
+	467523:       Rise
+	467562:       Andromax-i AD683G
+	467689:       Galaxy Admire 4G
+	467706:       One Touch 632
+	468000:       Smart 111
+	468016:       One Touch 930D
+	468072:       Me V1
+	468087:       Iris 355
+	468097:       Ninja 4 A87
+	468119:       Electrify M
+	468206:       Dual SIM 7100
+	468272:       Tablet 7010
+	468288:       Ilium S100
+	468303:       Cruz T100
+	468374:       Movistar Express
+	468406:       Finder
+	468486:       Butterfly
+	468495:       F-10D Arrows X
+	468510:       Galaxy Trend
+	468529:       Eluga V P-06D
+	468545:       Arrows V F-04E
+	468560:       Real
+	468600:       MX2
+	468615:       R801 Real
+	468640:       MI-1S Plus
+	468694:       Pantone 6
+	468710:       Regza T-02D
+	468731:       Ulike 2
+	468747:       Ascend G330D
+	468808:       Ascend G330
+	468814:       Ascend C8812E
+	468821:       Ulike
+	468837:       DIGNO S KYL21
+	468863:       Medias ES N-05D
+	468879:       Disney Mobile N-03E
+	468897:       Aquos Phone SHL21
+	468914:       Ascend G510
+	468975:       Grand X
+	468991:       Real R805
+	469003:       One ST
+	469019:       AQUOS PHONE Xx 106SH
+	469034:       Real R807
+	469048:       Flex
+	469076:       LePad A2207
+	469093:       Arrows X F-02E
+	469108:       Galaxy Ace Dear
+	469120:       Galaxy Axiom
+	469138:       R817 Real
+	469181:       Ascend G330C
+	469201:       Find5 X909
+	469219:       Arrows Z ISW13F
+	469237:       Proto
+	469256:       One SU
+	469378:       Text Edition 262
+	469478:       DS803
+	469493:       Galaxy Xcover 2
+	470040:       Optimus L3 II
+	470107:       Exagerate XZPAD700
+	470179:       Xperia L
+	470208:       Xperia E
+	470275:       Xperia SP
+	470303:       Galaxy Duos
+	470375:       Galaxy Mega 5.8
+	470442:       Galaxy Y Plus
+	470510:       Galaxy Young
+	470581:       Galaxy Fame
+	470648:       Ascend D2
+	470708:       Ascend G600
+	470715:       Optimus L3 II Dual
+	470730:       Optimus L7 II
+	470792:       Optimus L7 II Dual
+	470799:       Xoom 2 ME
+	470848:       Aquos Phone EX
+	470863:       Aquos Phone sv
+	470885:       Xperia AX
+	470976:       Ascend P1
+	471041:       Canvas HD
+	471055:       Bolt Ninja A35
+	471071:       Primus
+	471134:       Ninja A3
+	471147:       Funbook P360
+	471172:       One V
+	471179:       One V
+	471204:       Ascend Y 300
+	471276:       Optimus L5 II
+	471374:       MediaPad 10 Link
+	471416:       A91 Ninja
+	471468:       One Touch Idol
+	471577:       Transformer Pad TF300TG
+	471589:       Leader
+	471618:       S-POP
+	471764:       One Touch 510A
+	472134:       Fonepad ME371MG
+	472216:       Kis Lite
+	472274:       Life E3501
+	472308:       One Touch Star 6010D
+	472365:       One Touch Star 6010X
+	472413:       Galaxy Note 8.0 LTE
+	472426:       Lumia 925
+	472444:       Ativ S Neo
+	472501:       Xperia Tablet Z
+	472509:       Xperia M
+	472532:       Xperia A
+	472540:       Xperia ZR
+	472564:       Moto X
+	472592:       MSM8960 Development Board
+	472628:       MSM8974 Development Board
+	472765:       Xperia UL
+	472787:       MeMO Pad FHD 10
+	472895:       S7-312u MediaPad
+	472913:       G9300
+	472936:       One Touch 995A
+	472943:       One Touch 995A
+	472976:       Matrix MID SC-90JB
+	473059:       Kyros MID7065
+	473101:       Force
+	473198:       A848i Duo
+	473237:       One Touch Star 6010X
+	473245:       One Touch 918
+	473255:       Galaxy Mega 6.3
+	473326:       Galaxy Trend II Duos
+	473340:       Ascend P2
+	473376:       Optimus L5 II Dual
+	473389:       Optimus LTE III
+	473407:       Lumia 720
+	473452:       ATIV S
+	473466:       Galaxy SIII LTE
+	473475:       V811 Quad Core Tablet
+	473490:       RAZR D3
+	473629:       One Touch 2005X
+	473700:       Smart III
+	473762:       Asha 501
+	473852:       Asha 501s
+	473950:       Galaxy Discover
+	474145:       Gen10 101 XS
+	474166:       A72 Canvas Viva
+	474241:       Ascend Mate
+	474315:       GALAXY S4 Zoom
+	474384:       Ascend W1
+	474456:       One Touch Scribe Easy
+	474530:       Smartpad Mini Mobile
+	474843:       Ch@t 357 Duos
+	474955:       Vista
+	475033:       GzOne Commando 4G LTE
+	475119:       Galaxy Tab 3 10.1 3G
+	475186:       Galaxy Tab 3 10.1
+	475194:       Galaxy Tab 3 10.1 LTE
+	475203:       Galaxy Tab 3 7.0
+	475268:       Galaxy Tab 3 7.0 3G
+	475285:       Galaxy Tab 3 8.0
+	475382:       Galaxy S4 Active
+	475469:       G2
+	475528:       Lumia 1020
+	475591:       Grand X Quad
+	475657:       Smart Mini
+	475732:       One Touch 2005D
+	475739:       Ascend D1 Quad XL
+	475810:       One Touch M'Pop
+	475902:       Droid Ultra
+	475919:       Droid Mini
+	475944:       Optimus L9 II
+	476012:       Tribe 3040
+	476167:       Rex 70
+	476420:       8S
+	476426:       8S
+	476432:       8S
+	476461:       One Touch View 5040X
+	476475:       Galaxy NX
+	476540:       Galaxy Star
+	476614:       One Touch T'Pop 4010A
+	476674:       One Touch T'Pop 4010D
+	476681:       One Touch T'Pop 4010X
+	476688:       A62 Bolt
+	476705:       A26 Bolt
+	476750:       Asha 310
+	476920:       Memo Pad HD7
+	477011:       One mini
+	477017:       One mini
+	477027:       Asha 210
+	477206:       Galaxy Grand Quattro
+	477282:       Canvas 2 Plus
+	477321:       Canvas Doodle
+	477390:       Optimus L7X
+	477427:       
+	477626:       Arrows NX
+	477640:       Home Sync
+	477662:       Galaxy S4 Mini
+	477789:       NERV
+	477795:       NERV
+	477838:       Vivienne Westwood
+	477860:       Disney Mobile
+	477880:       Arrows Me F-11D
+	477895:       ANTEPRIMA
+	477910:       One Piece Limited Edition
+	477925:       Eluga P P-03E
+	477943:       Junior
+	477961:       MEDIAS TAB UL
+	477979:       Eluga Live
+	478056:       U18 GT Elite
+	478099:       Trend II
+	478167:       Clover
+	478179:       Galaxy Trend Duos
+	478187:       Excite Pro
+	478346:       IdeaTab A3000-F
+	478361:       IdeaTab A3000-H
+	478393:       Galaxy Pop
+	478590:       Galaxy Grand
+	478714:       Find 5
+	478762:       Ascend Y220T
+	478906:       Ascend Y 310
+	478942:       Galaxy Style Duos
+	478980:       Vega No. 6
+	479070:       Le Phone A60+
+	479108:       Real
+	479168:       Vega Iron
+	479199:       Scribe HD 8008D
+	479266:       Scribe HD 8008W
+	479284:       Asha 2055
+	479291:       Asha 2055
+	479300:       Galaxy S III Mini
+	479432:       Kis
+	479517:       Galaxy S III Duos
+	479531:       One Touch Pixi 4007D
+	479717:       Blade
+	479757:       Ascend P6
+	479871:       Optimus L4 II
+	479982:       Smart Pad 750 S2 3G
+	479997:       Transformer Pad TF300TL
+	480050:       Smart Pad 875 S2
+	480243:       Optimus it L-05E
+	480260:       MeMO Pad ME172V
+	480295:       Galaxy Centura
+	480308:       Aquos Phone Zeta
+	480327:       Liquid E2 Duo
+	480396:       Lucid 2
+	480480:       Grand X Quad Lite
+	480571:       Transformer Pad TF300G
+	480633:       Smart Pad 722i
+	480688:       Galaxy S3Pro
+	480704:       One Touch X'Pop 5035A
+	480770:       One Touch X'Pop 5035D
+	480777:       One Touch X'Pop 5035X
+	480784:       One Touch X'Pop 5035D
+	480792:       One Touch X'Pop 5035X
+	480800:       One Touch X'Pop 5035E
+	480876:       Rex 70 Duos
+	480883:       Smart Pad 101S2
+	480900:       Smart Pad 876 S2
+	480934:       Galaxy Pocket Neo
+	481063:       Razr D1
+	481099:       Premia 4G
+	481188:       Galaxy Note 3
+	481311:       Xperia Z Ultra
+	481399:       Smart Pad 706i
+	481650:       Moto G
+	481900:       Premium 8se
+	481959:       MultiPhone 5044 Duo
+	482130:       Yosemite
+	482186:       Event
+	482208:       Galaxy SII
+	482370:       Smartflo Pace2
+	482384:       Genx Droid 7
+	482418:       Zara
+	483187:       Bolt A51
+	483199:       Canvas 3D
+	483369:       ELIPSO 72
+	483468:       IdeaPhone K860
+	483539:       SurfTab ventos 10.1 v2
+	483583:       One Touch Soleil
+	483591:       
+	483619:       Manhattan
+	483911:       Ascend Y220T
+	483993:       Galaxy Grand
+	484125:       Vega S5 Special
+	484152:       LePhone A360
+	484318:       Xperia Z1
+	484406:       Smart Pad 705i
+	484458:       Liquid E1
+	484477:       Galaxy Ace 3
+	484547:       Galaxy Ace 3 LTE
+	484600:       Transformer Pad TF300TL
+	484624:       One XL
+	484632:       Kindle Fire HD 7 3rd Gen
+	484651:       Kindle Fire HDX 8.9
+	484679:       G Pad 8.3
+	484702:       One Touch 6034R Idol S
+	484768:       Xperia C
+	484787:       Galaxy Win
+	484812:       Galaxy SII TV
+	484900:       Optimus L4 II Dual
+	484927:       Optimus F7
+	484998:       Optimus F3
+	485085:       Galaxy Ring
+	485171:       Kairos
+	485245:       A7 Star
+	485271:       Canvas Fun
+	485375:       Tribe 3000
+	485560:       
+	485572:       Ch@t
+	485579:       Optimus Zone
+	485593:       Pusha 2SIM
+	485600:       Optimus Exceed
+	485608:       Aquarius 5
+	485621:       Idol Ultra
+	485630:       Xplorer
+	485654:       Swift
+	485744:       Renue
+	485988:       Breeze III
+	486071:       Breeze II
+	486157:       Optimus GK
+	486211:       Galaxy Golden
+	486315:       SKY Vega Racer
+	486457:       ONIDA F970
+	487217:       Take LTE
+	487331:       Vega LTE-A
+	497114:       Horizon
+	497464:       Tech
+	497650:       Kis Flex
+	497666:       Optimus L1 II
+	497728:       Optimus L1X
+	497757:       One SV
+	497764:       One SV
+	497773:       One SV
+	497781:       One SV
+	497787:       One SV
+	497794:       One SV
+	497805:       Ilium S400
+	497876:       Bolt A67
+	497968:       Galaxy Fame Lite
+	499382:       Ascend Y210S
+	499508:       MotoGO
+	499526:       MotoGO TV
+	499627:       Star 3
+	499722:       5185 TEKS
+	500138:       Droid Razr XT912
+	500153:       Smartlet 2
+	500166:       S6000-H
+	500193:       Noble I9220
+	500213:       Mini Smartlet
+	500226:       Cynus F3
+	500266:       M9 Pro
+	500346:       One Touch Evo 7
+	500372:       50 Platinum
+	500469:       Touch Lai 512
+	500482:       One Touch 4012X Fire
+	500671:       Galaxy Ace
+	501490:       Blade G Pro
+	501552:       Rugby III
+	501639:       Samoa
+	502072:       Ascend G525-U00
+	502086:       IdeaTab A1000-T
+	502164:       One
+	502205:       Desire
+	502528:       Lumia Icon
+	502555:       Summit
+	502574:       Salute
+	502587:       Galaxy Gear
+	502607:       Galaxy Note 10.1 2014
+	502679:       One Touch
+	502731:       DuraMax
+	502744:       DuraXT
+	502771:       Curve
+	502831:       Pinnacle 2
+	502845:       Kindle Fire HDX 7 3rd Gen
+	502865:       Kindle Fire HDX 8.9
+	502964:       Gravity Q
+	502976:       Gravity TXT
+	502989:       BOLT SL
+	503002:       Bolt
+	503084:       Ascend
+	503101:       Duo 9.7 Pro
+	503118:       Ilium
+	503146:       G Flex
+	503648:       Vibe X
+	503725:       One Touch 4012A Fire
+	503731:       One Touch 4012A Fire
+	503953:       Liro Color
+	503987:       Absolute
+	504014:       Smartpad 9.7
+	504049:       Galaxy Core
+	504075:       Glory 2
+	504156:       Ascend G740
+	504218:       Yumo
+	504237:       Galaxy Star S7262
+	504308:       
+	504358:       Flex 8
+	504373:       Mesquite
+	504393:       Xperia ZL
+	504410:       MegaFon Login
+	504424:       Discovery
+	504539:       Idol Mini
+	504996:       Snap
+	505054:       Idol X
+	505188:       G Pad 8.3 Google Play Edition
+	505313:       Galaxy Express 2
+	505758:       Vibe Z
+	505849:       Family Tablet
+	505945:       Premier
+	505959:       Sero 7 Pro
+	506118:       iPAQ Glisten
+	506135:       Enterprise
+	506160:       Gratina
+	506209:       Marvera
+	506223:       Bolt
+	506440:       Tribe
+	506575:       One Touch 639D
+	506586:       Tzuki Slim
+	506599:       One Touch 585F
+	506667:       Smartflo Space
+	506680:       FLO TV
+	506705:       Boss TV
+	506730:       Flo TV Pro
+	506743:       Boss Killer
+	506756:       T2
+	506818:       Flo
+	506831:       Boss Trendy 3
+	506844:       Boss Entertainer
+	506857:       Stellar Glamour
+	506871:       Boss Trendy
+	506929:       Trend Plus
+	507007:       Lumia 625
+	507071:       Galaxy Note Pro
+	507158:       Claro
+	507184:       Alias
+	507220:       Galaxy Tab Pro 10.1
+	507323:       Galaxy Tab 3 Lite
+	507397:       Galaxy Tab Pro 12.2
+	507425:       One Touch 916
+	507481:       One Touch 916D
+	507488:       One Touch 916A
+	507497:       Ascend G730
+	507559:       Xperia SP LTE
+	507633:       Xperia Z Ultra LTE (Togari)
+	507707:       Xperia Z1s LTE-A
+	507782:       Xperia Z1
+	507804:       Xperia Z1 Compact
+	507881:       Galaxy Grand
+	507896:       Galaxy Mega 5.8
+	507983:       Galaxy Trend II
+	508007:       One Max
+	508023:       Ascend Plus
+	508039:       Ascend
+	508098:       Xperia Z (Sony Yuga)
+	508173:       Optimus L7 II
+	508233:       Optimus L7 II
+	508246:       Optimus G2 4G
+	508258:       Galaxy Tab SC-01D for DoCoMo
+	508301:       Grand S Athena
+	509299:       Lifetab
+	509384:       Valiant
+	509605:       Rex 70 Duos
+	509629:       Pop C3
+	509753:       MultiPhone 3540 Duo
+	509782:       Ascend G700
+	509876:       Sydney Optimus
+	509914:       SmartPad 8.0 S4
+	509929:       Freeform
+	509967:       SmartPad 7.0 Mobile
+	509997:       Jest II
+	510276:       Carnival
+	510357:       Flo
+	510430:       Pop C5
+	510622:       Iconia B1-711
+	510706:       Yoga B8000-H
+	510997:       P-Pad RC0709B
+	511092:       PhonePad Duo S500
+	511186:       SmartPad 8.0 MP842M
+	511318:       Login 2
+	511332:       Galaxy S Duos 2
+	511389:       Canvas Fun
+	511403:       Xperia Z2
+	511788:       Soul
+	511806:       Pantone 105SH
+	512748:       Elife
+	513311:       FInd Muse
+	513490:       Galaxy S
+	513555:       Find 3
+	513569:       Galaxy Note
+	513757:       Ascend G305T
+	513838:       Galaxy S III
+	513864:       Ascend
+	513984:       Take Fit
+	514347:       Ascend Y500
+	514475:       MOTOLUXE
+	514677:       Butterfly
+	514700:       Arrows ef
+	514767:       Galaxy S5
+	515106:       Galaxy Note II
+	515187:       Motoluxe
+	515229:       V812 Quad Core Tablet
+	515317:       Vega Secret Note
+	515337:       Gx
+	515413:       MX
+	515454:       S6000-F
+	515461:       Proto
+	515527:       Xperia VL Tsubasa
+	515541:       One
+	515690:       Grand Era
+	515745:       M1
+	515759:       MX Dual-Core
+	515787:       Ascend Y220T
+	516271:       Optimus G
+	516792:       One S
+	516835:       Blade
+	517017:       Blade
+	517177:       Optimus it
+	517247:       
+	517281:       Rider
+	517434:       IdeaTab A3000-H
+	517531:       Ascend
+	517547:       J
+	517618:       Sweety
+	517969:       Galaxy Grand
+	518148:       Salsa
+	518329:       V972 Quad Core Tablet
+	518343:       NewPad P9
+	518357:       U18 GT-S Elite
+	518484:       Grand X
+	518558:       Motosmart Mix
+	518861:       Galaxy Tab Pro 8.4
+	518942:       Galaxy Mini
+	519026:       Galaxy Grand Neo
+	519109:       Galaxy Core Plus
+	519195:       Nexus 4
+	519232:       RAZR D1
+	519244:       Optimus II L1
+	519277:       Galaxy Trend
+	519307:       Canvas 4
+	519324:       RAZR D1
+	519336:       One Touch Fierce
+	519454:       One Touch 595 Tribe
+	519522:       Breeze IV
+	519535:       Flo TV Pro
+	519542:       Boss Sleek
+	519560:       Boss Marathon 2
+	519573:       Boss Dura 3
+	519588:       FLO
+	519602:       Full Touch
+	519615:       Boss Connect 4
+	519628:       Palmtab
+	519641:       Boss Connect 3
+	519654:       Boss Dura 4
+	519703:       Boss Graphite
+	519747:       Galaxy Legend
+	519819:       Defy XT
+	519844:       Hello Kitty
+	519888:       Titan
+	520471:       SKY Vega
+	520680:       Galaxy Fame Duos
+	520836:       Galaxy Note 10.1
+	521101:       Elegante
+	521113:       Masters Rhyme U910
+	521196:       Cloud
+	521213:       Xperia AX
+	521328:       Ascend D1 Quad XL
+	521398:       G Pro 2
+	521474:       Xperia Z2 Tablet
+	521505:       Xperia M2
+	521727:       Ascend Y220T
+	521911:       One M7
+	521946:       Galaxy S4
+	521972:       HTC One Dual Sim
+	521990:       One
+	522028:       Noir
+	522151:       One M8
+	522227:       Xenium
+	522478:       Ascend
+	522542:       Optimus L1 II
+	523129:       Galaxy K Zoom
+	523182:       One Touch 997D
+	523191:       Ascend G526
+	523253:       Pro Lite
+	523278:       Captain S
+	523291:       Ascend Y330
+	523310:       Crono SPH-22
+	523333:       K00F
+	523362:       Nexus HD2
+	523370:       MultiPhone 5500 DUO
+	523434:       Xperia T3
+	523457:       Exagerate XZPAD970H
+	523652:       PhonePad Duo G500
+	523708:       Yoga B8000-F
+	523729:       POP C7
+	523817:       SmartPad HD 10.1
+	523934:       C2 II
+	523950:       Yoga B6000-H
+	523990:       One V
+	523998:       Redmi
+	524033:       Galaxy S III LTE
+	524212:       Ulike 2S
+	524230:       Real
+	524269:       R1
+	524282:       Galaxy Trend 3
+	524317:       Galaxy Note II Duos
+	524345:       Real
+	524377:       Galaxy Round
+	524427:       Galaxy Note II
+	524550:       One M8
+	524563:       MX3
+	524592:       BBK
+	524626:       Xplay
+	524650:       BBK
+	524731:       D160
+	524749:       Optimus L70
+	524764:       Galaxy Win Pro
+	524808:       Honor 3C
+	524860:       Ascend G700-T00
+	524904:       Galaxy Grand 2 Duos
+	524932:       IdeaTab A5000
+	525021:       Ascend
+	525085:       U18S GT Elite
+	525195:       Elife E6 Mini
+	525250:       Ascend Y530-U00
+	525283:       MultiPhone 5300 DUO
+	525318:       SmartPad 8.0 MP840M
+	525545:       One Touch 908S
+	525552:       Skate
+	525673:       Superfone Infinity
+	525684:       T-Mobile G1
+	525759:       PRIME series CA-01
+	525784:       Ascend
+	525810:       San Francisco II
+	525889:       Bolt
+	525909:       Smart Flo Edge
+	525921:       Smart Flo
+	525934:       Shockwave
+	526029:       Dash 3.5
+	526053:       Telenor Touch Pad
+	526067:       Telenor Touch Plus
+	526075:       Roamer
+	526231:       Volt
+	526295:       Galaxy Ace Advance
+	526309:       G2 Mini
+	526399:       Blade
+	526405:       Aqua Glory
+	526425:       Aqua Star
+	526437:       Vu III
+	526495:       Authority
+	526518:       One Touch 995S
+	526571:       Mercury
+	526697:       MOVE 2
+	526722:       Kis Plus
+	526811:       Galaxy S Lightray 4G
+	526977:       Optimus Madrid
+	527034:       Telenor Smart HD
+	527041:       G301 Ascend
+	527168:       Ascend IDEOS Y200
+	527222:       Dave
+	527325:       Novo Compact
+	527444:       S2110AF
+	527478:       PendoPad PP4MT-7
+	527516:       ExNote
+	527548:       Cloud
+	527560:       Shine 1
+	527572:       Desire U
+	527585:       Excite 13
+	527599:       Cloud
+	527613:       Infinity
+	527628:       Ascend P1 U9200 GS03
+	527635:       Ascend
+	527655:       Optimus Ultimate
+	527683:       Andromax
+	527698:       Mobility
+	527801:       Kyros MID1048
+	527840:       GoTab Zetta
+	527869:       Alldro
+	527923:       Pilot
+	527937:       Multiphone
+	527951:       Xperia E1
+	528462:       Xperia A
+	528524:       MX3
+	528553:       Elife E5
+	528579:       Honor 3C
+	528639:       Nubia Z5S
+	528765:       Walkman
+	528794:       Galaxy Ace
+	528833:       IdeaTab
+	528864:       IdeaTab
+	528909:       Butterfly
+	528971:       Galaxy Grand Duos
+	529223:       Vega Secret Up
+	529355:       Win Pro
+	529382:       Galaxy Grand 2
+	529413:       Bolt
+	529439:       Canvas Fun
+	529470:       Bolt
+	529493:       Canvas 2.2
+	529524:       Xenium
+	529589:       Touch Pro2
+	529885:       Tribe
+	529926:       Tribe 3040G
+	530008:       Discovery
+	530039:       Boss Fun
+	530052:       Boss Trendy 5
+	530077:       Boss Power
+	530090:       Flo
+	530115:       Boss Link
+	530146:       Glory
+	530169:       Galaxy S4
+	530191:       Gladiator
+	530314:       Kyros MID7045
+	530376:       L90
+	530419:       Smart Pad 722M
+	530439:       Boss Trendy 2
+	530452:       Boss Connect 2
+	530465:       Boss Trendy 4
+	530490:       Boss Rhythm 2
+	530566:       Maui
+	530622:       Movistar
+	530783:       Milestone
+	530862:       One Touch 990A
+	531013:       One Max
+	531032:       One Max
+	531106:       Moto G
+	531207:       One Max
+	531220:       Moto G
+	531244:       L90 Dual D410
+	531259:       One Max
+	531276:       Tegra Note P1640
+	531292:       One Mini
+	531307:       Moto X
+	531468:       One Touch
+	531484:       MediaPad 10 Link+
+	531711:       Xperia Neo
+	531722:       M9Pro
+	531790:   <device id=sony_c6903_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; nb-no; Xperia Z1 Build/KVT49L) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 fall_back=sony_c6903_ver1>
+	531801:   <device id=lg_e970_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; LG Optimus G Build/KOT49H) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 fall_back=lg_e970_ver1>
+	531842:       Moto G
+	531950:       Ascend G330
+	532011:       One Touch X'Pop 5035D
+	532064:       Miracle
+	532187:       Desire
+	532263:       Galaxy Tab Pro 10.1
+	532399:       V818 Mini
+	532464:       Pop C7
+	532478:       Pop C7 Dual
+	532492:       Xperia E1
+	532507:       Xperia M2 Dual
+	532524:       Xperia M2
+	532542:       Galaxy Camera
+	532558:       Galaxy Core Advance
+	532587:       One Max
+	532609:       Ascend Mate 2
+	532626:       Venice
+	532640:       G2 Mini
+	532658:       Optimus L9
+	532675:       Imperial
+	532690:       Vital
+	532707:       Galaxy S III Mini VE
+	532725:       Galaxy S III
+	532743:       Galaxy Reverb
+	532757:       Defy Mini
+	532769:       RAZR V XT886
+	532786:       Majesty
+	532833:       Xperia E1 Dual
+	532872:       Xperia T2 Ultra
+	532947:       L65 Dual
+	533011:       One Touch 3042G
+	533018:       One Touch 565A
+	533059:       Kingfisher
+	533077:       
+	533083:       Asha 501.1
+	533132:       Nova Messenger
+	533181:       G Pro Lite
+	533195:       G2
+	533222:       Optimus G Pro
+	533242:       Optimus G
+	533258:       G Flex
+	533275:       Optimus L7 II
+	533289:       Warp 4G
+	533303:       Galaxy S4 Mini
+	533320:       Note 3 Neo Duos
+	533340:       Galaxy Light
+	533358:       Xperia Z2 Tablet
+	533377:       Galaxy Core TD-LTE
+	533392:       Galaxy Core LTE
+	533409:       Galaxy Grand 2 LTE
+	533428:       Note 3 Neo
+	533437:       Galaxy Note 10.1
+	533450:       Xperia Z1 F
+	533467:       Optik 2
+	533483:       Enact
+	533497:       Savvy
+	533511:       Source
+	533525:       Spark
+	533538:       Radiant
+	533552:       Avail 2
+	533567:       Unico
+	533582:       Xperia M2
+	533600:       Xperia Z2
+	533619:       Xperia Z2
+	533638:       Xperia E1 Dual
+	533654:       Xperia E1 Dual (Falcon DS)
+	533669:       Xperia Z Ultra
+	533689:       Xperia Z1 TD-LTE
+	533710:       Xperia T2 Ultra
+	533726:       Xperia T2 Ultra
+	533750:       Idol 2 Mini S
+	533782:       Galaxy Note 10.1
+	533803:       Xperia Z2 Tablet (Castor)
+	533822:       Xperia Z2 Tablet LTE-A (Castor)
+	533842:       Xperia Z2 Tablet
+	533879:       Xperia Z1 (Amami)
+	533933:       Galaxy Tab 4 10.1
+	533991:       50 Titanium
+	534086:       Nexus HD2
+	534188:       Alto A2
+	534223:       Cuppy
+	534275:       Butterfly S
+	534283:       M8 Mini
+	534305:       Galaxy S4
+	534331:       Dash 4.0
+	534362:       Optimus F6
+	534393:       Canvas Juice
+	534413:       Optimus L5 II
+	534435:       Xperia M
+	534465:       Wave 575
+	534471:       GT-S8500M Wave
+	534520:   <device id=sonyericsson_mt27i_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; Xperia Sola Build/KOT49H) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2 fall_back=sonyericsson_mt27i_ver1>
+	534527:   <device id=sony_c5303_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; Xperia SP Build/KOT49H) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 fall_back=sony_c5303_ver1>
+	534563:   <device id=lg_p500_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; Optimus One Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=lg_p500_ver1>
+	534619:   <device id=sonyericsson_st17_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Xperia Active Build/KVT49L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=sonyericsson_st17_ver1>
+	534624:   <device id=sonyericsson_st17_ver1_suban44marketingh user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Xperia Active Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=sonyericsson_st17_ver1>
+	534633:       Xoom LTE
+	534651:       Quadra HD
+	534730:       Xperia Z2 Tablet LTE-A (Castor)
+	534806:       Smartpad 7.0
+	534820:       Personal Assistant
+	534917:       Mediacom Smartpad 8.0
+	534931:       Pocket Tablet 6.5
+	534940:   <device id=hisense_m470bsa_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Sero 7 Pro Build/KOT49H) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Safari/537.16 fall_back=hisense_m470bsa_ver1>
+	534945:   <device id=hisense_m470bsa_ver1_suban44marketingms user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Sero 7 Pro Build/KOT49H) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 fall_back=hisense_m470bsa_ver1>
+	535052:   <device id=motorola_xt1058_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; Moto X Build/KVT49L) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 fall_back=motorola_xt1058_ver1>
+	535061:       G3
+	535126:       Xperia Live
+	535165:       Optimus G LG-Gee
+	535192:       Galaxy S5 Active
+	535274:       Vitria
+	535318:       Galaxy S III
+	535349:       Galaxy Mega 6.3
+	535431:       Boost Max
+	536738:       One Touch Pop 8
+	536753:       G3
+	536831:       One Touch Pixi 4007A
+	537057:       Yoga B6000-F
+	537064:       Yoga B6000-F
+	537071:       Yoga B6000-HV
+	537079:       Yoga B6000-HV
+	537087:       Galaxy Tab 4 8.0
+	537100:       Galaxy Tab 4 8.0
+	537364:       Galaxy S5 LTE-A
+	537458:       Galaxy Tab S 8.4
+	537528:       Galaxy Tab S 10.5
+	537598:       Galaxy S5 Mini
+	537666:       Optimus L4
+	537732:       RAZR D1
+	537763:       Optimus L4 II
+	537776:       Optik
+	537790:       Optimus L1 II
+	537804:       Optimus L4 II Tri
+	537823:       Xperia Z1 LTE
+	537866:       Xperia Z1
+	537896:       Spark
+	537909:       Liquid
+	537921:       Andromax AD687G
+	537935:       Login 2
+	537974:       Optimus F3
+	537993:       Moto E
+	538012:       RAZR D1
+	538038:       Prism II
+	538075:       G Pad 8.3
+	538095:       Optimus L90
+	538110:       Optimus F3
+	538124:       L1 II
+	538138:       G Pro Lite Dual
+	538172:       One M8x LTE-A
+	538179:       i-STYLE 7.5
+	538253:       One Touch
+	538267:       Stellar
+	538280:       Flo Rainbow
+	538293:       Stellar Glide
+	538307:       Boss Power 2
+	538341:       Boss Link 2
+	538354:       Wow
+	538527:       Wave
+	538553:       Maple
+	538584:       Galaxy Tab 4 7.0
+	538634:       Iconia One 7
+	538681:       DL7
+	538698:       Iconia A1
+	538743:       Hydro Vibe
+	538811:       Torque
+	538874:       PadFone X
+	539011:       Lucid 3
+	540197:       Gmate 6592
+	540210:       J One
+	540268:       Prestigio Multipad 4
+	540296:       San Diego
+	540327:       Prestigio Multipad
+	540373:       Noir A20
+	540387:       Arrows Tab
+	540413:       K00L
+	540429:       Amber
+	540448:       Medias WP N-06E for DoCoMo
+	540486:       Pandora 2
+	540527:       Zara
+	540566:       Transformer Book Trio
+	540597:       Breeze
+	540784:       Era Life 1
+	540798:       Desire
+	541098:       MultiPhone 4044 DUO
+	541159:       MultiPhone 3350 DUO
+	541377:       Yoga B8000-F
+	541394:       Butterfly s
+	541402:       Spark
+	541463:       StarTV
+	541643:       Xperia M2 Aqua
+	541659:       Galaxy S III Neo+
+	541679:       PadFone T00C
+	541926:       Ascend G630
+	542023:   <device id=sonyericsson_c6603_ver1_suban42marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.2.1; zh-tw; XPERIA Z Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=sonyericsson_c6603_ver1>
+	542039:       Transformer Pad TF701T
+	542110:       G3 Cat 6
+	542154:       G3 Mini
+	542187:       SlidePad NG 9716 DC
+	542202:       N3 Mini
+	542251:       Smart 4 Mini
+	542269:       Ascend G6-L11
+	542288:       Smart 4 Mini
+	542300:       D320n
+	542306:       Aquarius 5 HD
+	542319:       Galaxy Note 3 Duos
+	542360:       G3 Beat
+	542413:       Unite 2
+	542428:       Canvas 2 Colors
+	542452:       Optimus L3
+	542473:       Canvas Doodle 3
+	542487:       Bolt
+	542510:       One Touch Pixi 4007X
+	542524:       Canvas Magnus
+	542556:       Jumbo
+	542673:       One Touch 602A
+	542770:       Wise+
+	542815:       SPH-ARES 23
+	542863:       Noblex Tablet 8
+	542878:       Ascend Y600
+	542892:       Illium
+	542904:       Huawei Ascend Y600-U151
+	542912:       DASH JR
+	542987:       Pro Lite
+	543025:       Pop C5
+	543062:       Galaxy S4
+	543074:       Moto G LTE
+	543090:       Galaxy S III Mini Value Edition
+	543110:       S5
+	543145:       Droid RAZR HD
+	543182:       
+	543199:       Optimus F60
+	543234:       Personal Pro U8350
+	543248:       Galaxy Tab S
+	543278:       Fierce
+	543306:       Galaxy S4 Zoom LTE
+	543365:       Galaxy Avant
+	543383:       for T-Mobile
+	543395:       Hydro XTRM
+	543417:       Moto X (2nd Gen)
+	543435:       Evolve
+	543450:       Xperia Z3
+	543483:       Galaxy Mega 6.3
+	543502:       Ascend Y330-U05
+	543509:       Kyocera Hydro XTRM
+	543522:       Huawei Ascend Y600-U351
+	543563:       Noblex Tablet 10
+	543580:       S5 Mini LTE-A
+	543611:       G2 Mini
+	543627:       Optimus L5 II
+	543642:       Ascend Y530-U051
+	543650:       G3
+	543669:       Ascend Y530-U051
+	543677:       B2 Mini
+	543696:       One M8
+	543712:       Optimus L3 II
+	543728:       Galaxy S III T999
+	543761:       Moto X (2nd Gen)
+	543781:       Galaxy Ace 3
+	543799:       G3
+	543821:       One M7
+	543858:       Galaxy S3 Mini
+	543880:       One VX
+	543897:       Hydro Icon
+	543924:       Ascend Mate 2
+	543949:       Concord II
+	543970:       OPTIMUS L70
+	543997:       One Touch Star
+	544011:       Desire 610
+	544041:       NEC Terrain
+	544058:       Xperia T2 Ultra
+	544075:       HTC One X Plus
+	544089:       Mobile Hotspot with Projector
+	544109:       Galaxy Note 2
+	544140:       G3
+	544202:       Olympia
+	544210:       Grand X V970T/Mimosa X
+	544239:       Dash 4.5
+	544253:       Galaxy Tab TD-LTE
+	544268:       Droid X2
+	544284:       G Pro2 Lite
+	544301:       Ascend G600
+	544318:       Wildfire S
+	544330:       Flash
+	544349:       Galaxy Tab 3
+	544365:       Pixi
+	544377:       Aero X703
+	544405:       Touch Pro 2
+	544424:       Samasung Galaxy S 4G
+	544442:       Galaxy Grand 2
+	544468:       Fury
+	544496:       HTC EVO Design 4G/HTC Hero 4G
+	544510:       Optimus 3D
+	544525:       Cortex A7
+	544561:       Galaxy Tab
+	544603:       Jasper
+	544758:       Galaxy Fame Lite Duos
+	544785:       Ascent G 300
+	544793:       G2 Mini 3G
+	544844:       Tablet PC
+	544877:       DASH 3.5
+	544902:       Fame
+	544927:       Optimus L5
+	545036:       DASH 5.0
+	545077:       Stellar Nhance 2
+	545091:       Canvas MAd
+	545105:       Stellar Virtuoso Pro+
+	545119:       Canvas Elanza 2
+	545133:       Onr Touch Pop C1
+	545176:       
+	545262:       Canvas Turbo
+	545278:       Galaxy S4
+	545311:       Ripple 3G
+	545358:       Signature HD
+	545373:       Galaxy Ace NXT
+	545527:       TB-PH3
+	545593:       Duple
+	545626:       Series III L70
+	545691:       Idol 2 Mini
+	545754:       Hero
+	545816:       Liquid E3
+	545860:       Galaxy Mega
+	545876:       Galaxy S4
+	545911:       Canvas Doodle 2
+	545965:       DASH MUSIC 4.0
+	546003:       Smart Flo Mettle 5X
+	546017:       S III mini
+	546047:       Stellar Mettle Icon
+	546061:       Canvas Power
+	546075:       Power
+	546140:       Blade C2
+	546155:       4G
+	546182:       Galaxy Core II
+	546224:       Lava 3G 412
+	546257:       Galaxy S5
+	546277:       Unite A092
+	546350:       MultiPad 4 Quantum 9.7
+	546417:       Bolt
+	546433:       Galaxy S5
+	546475:       HTC One
+	546522:       Smart Tab III 7
+	546571:       Xperia Z1
+	546615:       Smart A51
+	546655:       iBall Slide
+	546694:       HTC Desire Dual Sim
+	546812:       Pop C9
+	546855:       One Touch Pop C1
+	546868:       Canvas Knight
+	546922:       Canvas Entice
+	547049:       Stellar Pinnacle Pro
+	547077:       Find Muse
+	547107:       Smart Flo Mettle 4.0X
+	547205:       Canvas HD plus
+	547232:       People's Tablet
+	547268:       Galaxy S4 Mini
+	547286:       Iconia Tab A3
+	547313:       MutliPad 4 Quantum
+	547341:       Q800X
+	547383:       Iconia
+	547441:       Zeven
+	547471:       Arrow NX
+	547510:       Xplorer
+	547524:       Bolt
+	547602:       Smart Flo Mettle 3.5X
+	547610:   <device id=zte_qb7211_ver1_subuamarketing user_agent=Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; Movistar Express Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 fall_back=zte_qb7211_ver1
+	547669:       Argos
+	547697:       Axe II
+	547726:       Noir
+	547754:       Smart FLO Pace 3
+	547773:       Elanza
+	547802:       Canvas Turbo Mini
+	547830:       Canvas Fire 3
+	547858:       S2109AF
+	547875:       Tablet AiO
+	547965:       G3
+	547995:       Slim Note
+	548058:       OPTIMUS L70
+	548107:       Moto X
+	548159:       One Touch 918
+	548176:       BGH YPY L700 Kids
+	548184:       S5 LTE-A
+	548243:       Smartflo Poise
+	548257:       Galaxy Trend 3
+	548278:       Zielo
+	548309:       DIGNO DUAL 2
+	548346:       Illium
+	548431:       Digno
+	548513:       Moto E
+	548545:       Galaxy Ace Style
+	548561:       Ascend
+	548578:       Zenfone 5
+	548635:       Urbano L01
+	548680:       Xperia Z2 LTE-A
+	548698:       ERA Nano 2
+	548828:       Zenfone 4
+	548862:       E1C+
+	548894:       Xperia M
+	548917:       Syreni 50DC II
+	548925:       One SV
+	548966:       Galaxy S III T999
+	549041:       Joy
+	549070:       Aquos Phone XX Mini
+	549096:       Titanium
+	549122:       Star 2 Plus
+	549136:       Zenfone 4
+	549150:       Venue 8
+	549210:       Optimus Exceed 2
+	549254:       Desire dual sim
+	549319:       Touch Idol Mini
+	549333:       Blade C2
+	549365:       Digno M
+	549383:       Wings 2
+	549417:       POP C1
+	549512:       Galaxy S3 Mini LTE
+	549535:       HTC Deluxe
+	549552:       Arrow Tab
+	549596:       Zielo
+	549622:       Smart Flo Ivory 2
+	549648:       Galaxy Tab 4 7.0
+	549782:       Quadro
+	549796:       Xperia Tablet Z
+	549811:       Galaxy S4
+	549831:       Galaxy S4
+	549850:       EVO Tech 2
+	549970:       Pinnacle FHD
+	550023:       Smartflo Space
+	550048:       Funbook
+	550106:       Optimus Zone 2
+	550120:       Galaxy Mega
+	550154:       Ascend Y511
+	550233:       Elife
+	550258:       Phantom A Plus
+	550312:       Galaxy S5
+	550338:       Opus2
+	550353:       Galaxy S Duos 2
+	550476:       Stellar
+	550503:       CanvasTab
+	550611:       Aquos Phone XX
+	550684:       ZL2
+	550701:       Canvas Fire
+	550731:       Aquos Pad
+	550746:       Galaxy Trend 3
+	550764:       Optima
+	550778:       Arrows Z
+	550795:       Xperia Z
+	550918:       Galaxy J
+	550979:       Aquos Serie
+	551009:       G2
+	551112:       Xperia Z2
+	551184:       Infocus IN810
+	551367:       Iconia
+	551501:       MOT-A1680
+	551598:       Galaxy S5
+	551619:       Find 5
+	551758:       Real
+	551794:       Galaxy Ace Style
+	551859:       Galaxy S4 Mini
+	551914:       Aquos Phone Serie Mini
+	551971:       LePhone
+	552031:       Multiphone 3400 Duo
+	552058:       Galaxy J
+	552106:       A10-70 A7600
+	552122:       Bioniq
+	552265:       Canvas XL
+	552304:       Arrows
+	552331:       Desire 601
+	552435:       Galaxy Win Pro
+	552496:       Arrows A-301F
+	552512:       Galaxy Tab 3 with LTE
+	552605:       Galaxy S4 Zoom
+	552842:       ERA Life 5
+	553000:       Smart 4 Power
+	553066:       Aquos Serie
+	553229:       Smart Flo Crystal
+	553448:       Neo 3
+	553476:       Win
+	553559:       Phantom PAD
+	553617:       IdeaTab A2109
+	553636:       Redmi Note 4G
+	553673:       Galaxy S4 LTE
+	553883:       Liquid Z4
+	554005:       T5
+	554019:       G2
+	554094:       Noir
+	554205:       Desire L
+	554246:       FonePad 7
+	554590:       Idol 2
+	554608:       Startrail 4
+	554635:       One Touch Idol X
+	554697:       Xplorer W128
+	554734:       Butterfly S
+	554857:       Moto X
+	554888:       Galaxy Note 8.0
+	554911:       A11 Star
+	555109:       Xperia T3
+	555126:       Live
+	555164:       Prestigio MultiPad PMP5770D
+	555251:       EverMellow D45
+	555331:       Noir
+	555398:       Auxus
+	555434:       L80
+	555488:       Galaxy Trend
+	555513:       Noir 3G
+	555618:       YoYo
+	555631:       Play555
+	555660:       Pop C1
+	555743:       Canvas L
+	555781:       Classique
+	555874:       Stellar
+	555929:       Note 3 Neo 4G
+	555991:       HTC Butterfly 2
+	556051:       Prime 508
+	556066:       Bean 414
+	556093:       Touch Lai 504m
+	556104:       Touch Bean 452c
+	556131:       Touch Bean 402
+	556138:       Touch Bean 452T
+	556152:       Touch Lai 504Q
+	556178:       Touch Bean 454
+	556219:       Touch Kem 351
+	556369:       Moto G
+	556832:       Nubia Z5
+	556902:       Magnum
+	557040:       Nimbus
+	557244:       R1
+	557318:       Digno M
+	557359:       Fair Phone 1
+	557372:       Omega
+	557452:       Secret Note
+	557618:       Funbook Ultra HD
+	557780:       Fonepad Note 6
+	558040:       ONE TOUCH 6016E
+	558047:       ONE TOUCH 6016E
+	558061:       ONE TOUCH 6016X
+	558068:       One Touch Idol Alpha
+	558143:       ONE TOUCH 8020A
+	558176:       ONE TOUCH 8020E
+	558183:       ONE TOUCH 8020E
+	558193:       ONE TOUCH 8020X
+	558206:       ONE TOUCH 8020X
+	558232:       Note III
+	558272:       L-Phone
+	558284:       
+	558292:       Glory
+	558329:       S 4 Active
+	558515:       Mediapad X1
+	558602:       i-STYLE Q2 DUO
+	558635:       i-STYLE 2
+	558662:       IdeaPad
+	558715:       IQX SLIM
+	558754:       One mini
+	558794:       
+	558824:       Evo
+	558920:       F70 LTE
+	558942:       Phoenix 2
+	559046:       E7
+	559128:       Thunder 2.0
+	559383:       Elevate Y
+	559571:       Smart Pro
+	559610:       Bolt A24
+	559640:       A59 Bolt
+	559710:       Iconia Tab 7
+	559937:       One Touch POP 7
+	559950:       Galaxy Grand
+	560026:       Smartpad S2 3G
+	560144:       PhonePad
+	560250:       Bolt A075
+	560290:       Galaxy Tab 4 8.0 LTE
+	560327:       Honor 3X
+	560376:       MultiPad 8.0 HD
+	560443:       Ace
+	561023:       HDC Galaxy S5
+	561092:       Lumia 630
+	561123:       Arrows NX
+	561145:       Millennium Vogue
+	561164:       FonePad
+	561289:       Sense
+	561441:       NetTAB THOR ZX
+	561572:       50 Neon
+	561635:       Yoga Tablet 10
+	561676:       HP Slate
+	561706:       Bolt A28
+	561853:       Spark 245
+	561908:       One Touch Idol X
+	561960:       ARC 22
+	562056:       Touch Pro2
+	562111:       Snap
+	562515:       Express
+	562550:       One Touch T'Pop 4010D
+	562556:       Andi3.5 Classique
+	562593:       Aqua Marvel+
+	562606:       iDea10
+	562649:       Duple
+	562671:       Idol Alpha
+	562943:       Galaxy Tab 10.1
+	562957:       Duple
+	563079:       Mi-515 Coolpad
+	563156:       Smartflo Pace
+	563188:       A66 Bolt
+	563443:       Cloud
+	563499:       Iris 405
+	563588:       Cloud X12
+	563625:       AX3 Duo
+	563666:       Cloud Z5
+	563713:       MSD7 AX410
+	563945:       Smart A51 Lite
+	563957:       Maxx Genxdroid7 AX352
+	563963:       Maxx Genxdroid7 AX352s
+	564066:       Canvas Blaze
+	564113:       Ascend G760-L01
+	564119:       Ascend G760-L01
+	564126:       Blade G Lux
+	564155:       Galaxy Note 4
+	564255:       Dreambook T1
+	564290:       J Butterfly
+	564334:       Zania 10 Inch
+	564364:       Skyfire 2.0
+	564402:       Black TAB10
+	564417:       FreeTab 9000 IPS IC
+	564432:       SP518 FHD
+	564467:       Amazing P5 Lite
+	564484:       Vega
+	564499:       Yoga B6000
+	564537:       One M8 Eye
+	564584:       Prestigio Multipad
+	564632:       VidaTab
+	564753:       Manta Duo Power HD
+	564767:       Arrows X
+	564780:       Galaxy S III Mini
+	564840:       Titanium
+	564854:       Geek
+	565343:       ASK SP628 HD
+	565382:       Slate 8 Pro
+	565446:       Gotab Yotta
+	565544:       Cube Talk 7XS
+	565558:       Cube Talk 7X C4
+	565599:       Ramos W13pro
+	565615:       Optima
+	565635:       Brevis 714DC 3G
+	565649:       Xperia Z3
+	565667:       BG3
+	565691:       Majestic TAB492 3G
+	565732:       Eon Prix
+	565774:       Life
+	566007:       Desire 7060
+	566074:       Redmi
+	566087:       Moto G (2nd Gen)
+	566118:       One
+	566148:       Smart Kicka
+	566236:       Asha 210.3
+	566267:       Lumia 530
+	566284:       Canvas Win W121
+	566301:       Vibe Z2 Pro
+	566334:       Vibe X2
+	566349:       Vibe X2
+	566366:       Vibe Z2
+	566434:       Pop S3
+	566554:       Ascend G660-L075
+	566579:       MeMO Pad 7
+	566670:       Zielo
+	566684:       Galaxy Grand 2
+	566712:       HIT 3G
+	566768:       Pulse
+	566827:       A5 Turbo
+	566843:       S5E Pro
+	566953:       Dash JR 4.0
+	566968:       Studio 5.0 C HD
+	566976:       Studio C Mini
+	567031:       Trio Stealth G4 10.1
+	567073:       Xperia C3
+	567097:       Dash 5.5
+	567105:       Dash JR K
+	567116:       Valencia
+	567160:       Edison 3
+	567316:       Galaxy K Zoom
+	567361:       Illium
+	567374:       Fly Era Nano 7
+	567704:       Feel
+	567719:       Gravity 5.5
+	567735:       Quantum
+	567799:       Honor 6
+	567849:       Extreme
+	567872:       Titan 2 HD
+	567893:       One Mini 2
+	567916:       One Touch T'Pop 4010E
+	567923:       G2 Mini
+	567963:       
+	568017:       Novus Alfa II
+	568028:       Moto E
+	568096:       D320AR
+	568175:       Cosmo
+	568198:       Dash JR 4.0
+	568255:       Moto G (2nd Gen)
+	568282:       Galaxy Core II Duos
+	568305:       Galaxy Young Duos
+	568318:       Star Trios
+	568364:       ILIUM S220
+	568512:       Ascend G760-L01
+	568529:       Xperia E3
+	568556:       DASH JR SOCIAL
+	568588:       Galaxy S5 Sport
+	568608:       One Touch Star 6010A
+	568639:       TB-PH03
+	568654:       Pegasus
+	568697:       Galaxy Ace NXT
+	568897:       One Mini 2
+	568916:       One E8
+	568947:       Ascend P7-L00
+	569056:       Galaxy S4 Active
+	569089:       Xperia Z2
+	569146:       Golden Warrior
+	569189:       L20
+	569218:       L30
+	569242:       L40
+	569253:       D165AR
+	569275:       L80
+	569309:       G Pro Lite
+	569330:       G2
+	569345:       G2
+	569409:       REALM
+	569448:       G Pad 7.0
+	569461:       G Pad 10.1
+	569477:       Life Play 2
+	569491:       Life Play
+	569592:       miTab FOLLOW
+	569606:       Smart A16
+	569652:       OnePAD 785I
+	569687:       Ruggedbook
+	569704:       Prime PR3548
+	569718:       Prime Pr4066
+	569755:       Fly ERA Life 4
+	569784:       Titanium
+	569843:       T1
+	569874:       Galaxy Pocket 2 Duos
+	569890:       Galaxy Young 2 Duos
+	570057:       Studio 6.0 HD
+	570071:       Surfer A752
+	570104:       Big Bang 2
+	570292:       VOYAGER2
+	570322:       Nimbus
+	570382:       Barry
+	570434:       SMARTLET
+	570548:       KIRK 3S
+	570639:       Leo S1
+	570714:       Moto G Forte (Falcon)
+	570730:       Moto E
+	570829:       One Touch POP 2
+	570911:       Login 3
+	570948:       Optimus 4X HD
+	570986:   <device id=sony_d5503_ver1_suban44marketingchrome user_agent=Mozilla/5.0 (Linux; Android 4.4.4; Xperia Z1 Compact Build/KTU84Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 fall_back=sony_d5503_ver1>
+	570993:   <device id=sony_c6903_ver1_suban44marketingchrome user_agent=Mozilla/5.0 (Linux; Android 4.4.4; Xperia Z Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36 fall_back=sony_c6903_ver1>
+	571005:       Moto E
+	571023:       Moto G (2nd Gen)
+	571366:       Yoga B8000-F
+	571373:       Liquid
+	571432:       Galaxy S5
+	571463:       L Fino
+	571520:       Vega
+	571550:       G3
+	571574:       Desire
+	571588:       Optimus F7
+	571601:       One M8T
+	571677:       Galaxy Note 2
+	571702:       Galaxy Note 4
+	571765:       One M8 dual Sim
+	571778:       Aquos
+	571821:       Galaxy Tab 4
+	571930:       G3
+	571960:       Canvas 4 Plus
+	571973:       Galaxy S5 Mini
+	572051:       One Touch 918A
+	572127:       Galaxy Ace 4 LTE
+	572277:       L35
+	572288:       MultiPhone PAP4055DUO
+	572570:       Windows Phone 8X
+	572577:       Canvas Nitro
+	572591:       Xperia Z3 Compact
+	572610:       Galaxy S5
+	572666:       Galaxy Grand Prime
+	572799:       X342
+	572838:       One Touch X+
+	572896:       L03
+	572966:       Vista
+	572984:       Flash
+	573071:       Isai FL
+	573100:       Tribute
+	573114:       070touch
+	573127:       Gx2
+	573185:       Bolt
+	573313:       One Touch Pixi 4007A
+	573354:       Lumia 1320
+	573375:       Touch Kem
+	573424:       Grand S Flex
+	573518:       Overture
+	573551:       LifeStyle 5BS
+	573626:       Dream
+	573659:       G-Smart
+	573673:       Zio
+	573700:       Galaxy Alpha
+	573749:       Canvas A1
+	573763:       Dream Uno
+	573777:       Sparkle V
+	573793:       Moto G LTE
+	573810:       XTAB 7
+	573826:       Garnet IX
+	573995:       Moto G
+	574150:       Moto G
+	574193:       G3
+	574314:       Moto E
+	574333:       RAZR V XT889
+	574474:       5005 NFC SmartPhone
+	574492:       Access
+	574508:       
+	574572:       ETAB 902 VP
+	574773:       MultiPhone 5503 Duo
+	574788:       Papilio G3
+	574836:       Ellipsis 7
+	574888:       Idol 2 S
+	574907:       ZenFone 6
+	574930:       MediaPad T1 8.0
+	574948:       Andromax AD681H
+	575007:       Note 3 Neo
+	575045:       Redmi 1S
+	575083:       Find 7 Mini
+	575122:       IdeaPhone
+	575190:       Find 7a
+	575207:       F1
+	575260:       Galaxy Axiom
+	575277:       Find 7
+	575346:       Honor 3C
+	575418:       Galaxy S4
+	575448:       Redmi
+	575464:       Honor 3C
+	575508:       Galaxy Ace3
+	575522:       Sophia
+	575567:       Ascend
+	575622:       Honor 3X
+	575660:       Honor 3X
+	575690:       Galaxy Grand 2
+	575798:       Ascend G6
+	575814:       Galaxy Grand Neo+
+	575841:       Elife S5.5
+	575864:       Galaxy Ace 3
+	575883:       Desire 816
+	575944:       Honor 3C
+	575988:       Mi-Three
+	576060:       Redmi Note 4G
+	576076:       Redmi Note 4G
+	576134:       Fierce 2
+	576168:       Desire 510
+	576251:       Redmi Note 4G
+	576282:       One M8
+	576307:       Galaxy Grand 2
+	576593:       Redmi Note 4G
+	576681:       Galaxy Fame
+	576740:       Galaxy Core Mini 4G
+	577022:       Find 7
+	577064:       Hongmi Note 4G
+	577106:       Hydro Life
+	577127:       Pop D1
+	577141:       Droid Turbo
+	577164:       One SV
+	577493:       EVO Chic 3
+	577553:       Onetouch POP D3
+	577779:       Ascend Mate 7
+	577802:       Ascend Y625
+	577844:       SmartPad 8.0 HD Pro 3G
+	578097:       CHRONO SPH-43
+	578125:       GOLEM 710S
+	578145:       MultiPhone 5400 Duo
+	578186:       Find
+	578199:       PhonePad Duo S500C
+	578206:       PhonePad Duo S550
+	578240:       Xenon
+	578306:       PhonePad Duo G550
+	578338:       Surfing TAB B
+	578377:       Desire Eye
+	578395:       Smart 4 Turbo
+	578489:       Xperia Z3 Dual
+	578624:       Mpower Txt
+	578638:       Freeform III
+	578664:       Boss M-5007
+	578688:       Boss M-5033
+	578701:       Boss M-5209
+	578743:       Flo M-5918
+	578756:       Boss M-5470
+	578789:       Boss Delite 4 M-5352
+	578875:       Claro
+	578917:   <device id=zte_v807_ver1_subu2k9marketing user_agent=UCWEB/2.0 (MIDP-2.0; U; Adr 4.1.1; en-US; ZTE_BLADE_C) U2/1.0.0 UCBrowser/9.6.0.514 U2/1.0.0 Mobile fall_back=zte_v807_ver1>
+	578921:       Blade C
+	578929:       Switch X1
+	578938:       Galaxy A3
+	579040:       Canvas XL2
+	579140:       Factor
+	579300:       Canvas Knight Cameo
+	579323:       Bolt
+	579338:       Fire HDX 8.9 (4th Gen)
+	579355:       Fire HD 7 (4th Gen)
+	579370:       Fire HD 6 (4th Gen)
+	579431:       Aqua Star 5.0
+	579445:       Kis 3
+	579460:       Coolpad
+	579536:       Aqua Style 4.0
+	579550:       One Touch POP 7S
+	579572:       Titanium S1
+	579587:       Stellar
+	579610:       L-Pad Supernova S
+	579626:       Ascend Y550
+	579640:       Honor Holly
+	579656:       Aquos Crystal
+	579785:       Prelude
+	579823:       Iris Fuel50
+	579928:       Aquaris 4
+	580044:       Ellipsis 8
+	580069:       Moto X
+	580121:       Ctrl V4S
+	580288:       Bolt
+	580309:       Moto G (2nd Gen)
+	580340:       Stellar Horizon Pro
+	580621:       L50
+	580687:       Blade A430
+	580703:       Galaxy Note Edge
+	580807:       Q700S Plus
+	580822:       ME Connect 2G 2.0
+	580865:       Iris 360m
+	580910:       Slide 3G 7334i
+	580932:       DROXIO C40
+	580947:       Brigadier
+	580996:       Aqua T5
+	581055:       YOGA Tablet 2-1050F
+	581073:       Thunder Q45
+	581102:       Iconia One 8
+	581150:       One Touch Pop Icon
+	581177:       Ascend G620S
+	581195:       Pixi 7
+	581211:       Evervivid Q47
+	581239:       Surfer 7.34 3G
+	581268:       MultiPhone
+	581279:       MultiPhone 4500 Duo
+	581391:       Aquaris 5 HD
+	581409:       Evolve 2
+	581479:       Pioneer P4
+	581493:       Liquid E700
+	581507:       Desire 620G
+	581538:       HP 10 Tablet
+	581567:       Eluga S
+	581586:       Opus 3
+	581619:       Galaxy S III
+	581634:       Tab 8
+	581651:       Galaxy Mega 2
+	581735:       YOGA Tablet 2-1050L
+	581742:       YOGA Tablet 2-830F
+	581778:       Galaxy A5
+	581872:       MeMO Pad 7
+	581890:       Pop C2
+	581991:       Optimus Showtime
+	582005:       L80
+	582018:       Galaxy Grand Prime Duos TV
+	582044:       Xperia Z3 Tablet Compact
+	582062:       Warp Sync
+	582104:       Studio 5.0 C
+	582118:       Desire 816
+	582155:       G101
+	582190:       L Bello
+	582211:       Smart Flo
+	582257:       All Winner A23 Dual Core
+	582280:       Galaxy Tab 4 7.0 LTE
+	582320:       Tab S8
+	582337:       G2 Tablet
+	582373:       Venue 8 7840
+	582389:       V1-C
+	582404:       Desire 820
+	582422:       R5 4G LTE
+	582453:       Galaxy Tab Active LTE-A
+	582505:       Galaxy S IV
+	582526:       Titan 3
+	582555:       ULTIMATE 2
+	582586:       Xperia Z3
+	582659:       Dash JR TV
+	582671:       YOGA Tablet 2 Pro
+	582696:       Stellar 439
+	582712:       KISSME
+	582755:       Canvas Xpress
+	582785:       Lumia 535
+	582817:       Lumia 535
+	582909:       Quartz
+	582923:       Grand Z 777
+	582971:       Hydro Life
+	583001:       Funbook Mini
+	583017:       Blade A450
+	583034:       G Flex 2
+	583133:       ME Connect-V3
+	583148:       Iris 400s
+	583315:       Hydro Elite
+	583344:       Coolpad 2
+	583438:       LIFETAB
+	583500:       ZenFone 2
+	583535:       ZenFone 5
+	583575:       Nana
+	583588:       WIN HD W510u
+	583602:       Valet
+	583695:       Smartflo Ivory
+	583724:       Galaxy Tab 3 Kids
+	583825:       AirTab
+	583854:       Premium tab7
+	583875:       AirTab
+	583890:       Grand X Max
+	584029:       ETAB M7022G
+	584145:       Nimbus
+	584180:       for Orange
+	584208:       Blade Apex
+	584233:       Arise
+	584317:       Titanium S20
+	584414:       Iconia
+	584519:       Onetouch POP D5
+	584648:       SP Dual 5s
+	584764:       Syreni 40DC
+	584778:       Galaxy Note 3
+	584901:       Whirl
+	585059:       Ultra Slim
+	585088:       Sero 7 LT
+	585137:       Dagger
+	585164:       Ilium S500
+	585205:       Endeavour 800NG
+	585260:       Infinium X30 Pro
+	585312:       OPTIMUS F3Q
+	585379:       F60
+	585429:       Time2Touch
+	585445:       Tablet Pro 7
+	585520:       MultiPad 4 Diamond 10.1 3G
+	585689:       Perception
+	585820:       Frenzy
+	585880:       L60
+	585917:       Nubia Z7
+	585975:       Smart Flo
+	586015:       Rocket Jetz
+	586042:       Director
+	586061:       Transpyre
+	586404:       Galaxy E7
+	586510:       Orbit Tab Phone 7
+	586526:       101 Copper
+	586542:       50b Platinum
+	586557:       70 Copper
+	586575:       90 Copper
+	586639:       SmartPad 7.0 GO
+	586653:       Miia Phone 4&quot;
+	586669:       Pluto
+	586739:       TAB 9 3G V16
+	586800:       PhonePad Duo X500U
+	587057:       Stream S
+	587071:       Ascend P6 S - L04
+	587291:       Tesla Tablet 785
+	587307:       Funbook 3G
+	587327:       Zenfone 5
+	587620:       Flair
+	587632:       Storm
+	587645:       Onetouch POP D1
+	587673:       Aquos Hybrid
+	587708:       Mediapad M1 8.0
+	587751:       Beyond 3g
+	587779:       Crystal Apples IV
+	587850:       TA-FONE A37 HD
+	587863:       Galaxy Amp
+	587877:       Engage LT
+	587903:       Iris 400c
+	587921:       E2 Living
+	587934:       
+	587947:       
+	588324:       Life
+	588410:       Flair
+	588446:       Elink
+	588529:       Inspira
+	588576:       AirTab
+	588618:       Titanium S5 Ultra
+	588648:       Smiley
+	588738:       X1 Soul
+	588753:       MultiPad 2 Prime Duo 8.0
+	588913:       Compel
+	589016:       Majestic TAB493 3G
+	589076:       TECHMADEPAD 97QD
+	589160:       L-Pad Supernova S16
+	589177:       N1 Mini
+	589216:       Stellar Mi-362
+	589291:       Galaxy Core Prime TD-LTE
+	589367:       Stellar 440
+	589391:       Candy Bar
+	589397:       Flip
+	589430:       Flip
+	589457:       Titanium S12 Delite
+	589481:       Grand X Max+
+	589488:       Canvas Hue
+	589576:       Iris Fuel 60
+	589616:       Canvas Tab P470
+	589712:       Titanium S10
+	589810:       Stellar Mi-507
+	589871:       Black Pearl II
+	589904:       Speed
+	589918:       Blade G
+	589961:       Rapido LTE
+	589975:       Stellar Craze
+	590019:       Galaxy E5
+	590036:       E1
+	590053:       
+	590122:       Stellar Jazz
+	590220:       Ilium S115
+	590315:       Videocon Infinium
+	590383:       Stellar 520
+	590398:       Videocon Infinium
+	590412:       Videocon Infinium
+	590452:       X2 Soul
+	590504:       Delos
+	590678:       Stellar
+	590712:       Galaxy S6
+	590784:       Galaxy S6 Edge
+	590977:       One Touch Pop Star
+	591015:       Galaxy Core Advance
+	591033:       Prelude 2
+	591045:       Reliance 3G Tab
+	591060:       Rainbow
+	591074:       HTC Z4
+	591091:       Party
+	591107:       Otis QS
+	591135:       P7 mini
+	591151:       50b Oxygen
+	591175:       Leon 4G LTE
+	591250:       Axe Plus
+	591264:       Illium S130
+	591306:       Tablet NOBLEX 7
+	591347:       Tablet NOBLEX 8
+	591376:       Revel
+	591390:       Illium
+	591419:       Argos
+	591434:       Aero
+	591512:       Xperia E3
+	591533:       Ascend Y550-L03
+	591611:       Flame
+	591733:       GOLEM 710S
+	591747:       ORION
+	591785:       Galaxy S Duos 3
+	591792:       Zoid
+	591809:       PIXO7 I211
+	591824:       Ascend
+	591875:       Athenas
+	591892:       Might Plus
+	591946:       Pegasus
+	591971:       Gator
+	591985:       Breeze
+	592023:       Pop C9
+	592032:       Jasper 2
+	592119:       Honor 6 Plus
+	592195:       One M9
+	592213:       Lumia 640 XL
+	592262:       Xperia M2 Aqua
+	592321:       Tablet Advance Intro
+	592356:       Xpress SmartLife
+	592371:       Aero 1021
+	592412:       Coach Plus
+	592426:       Galaxy Music Duos
+	592526:       Titan HD
+	592557:       Wave Thunder
+	592596:       ARGOS NAV
+	592642:       Z1
+	592729:       Pop C7
+	592804:       Lynx
+	592858:       Breeze
+	592894:       For Entel
+	592962:       Breeze
+	593006:       Tablet Advance Intro
+	593021:       Equal
+	593035:       Orinoco Bucare Y330
+	593072:       Feel
+	593143:       G Flex
+	593273:       Tablet Advance Intro
+	593356:       Zielo Q30
+	593398:       G7E NEO
+	593516:       Zaffire
+	593575:       Iguanapad
+	593590:       Aero 1024
+	593604:       Andy 4EI
+	593631:       SmartPad
+	593662:       Zing
+	593775:       Hasee
+	594008:       Chronos G830DC
+	594093:       Blade S6
+	594130:       Trigger Plus
+	594211:       Skypad
+	594325:       Andy 5EI
+	594349:       Cronos
+	594639:       Andy 5EI
+	594710:       Galaxy Tab 3
+	594879:       Trigger Pro
+	594943:       Matrix MID SC-91JB
+	595182:       Era Style 4
+	595493:       Glory 3
+	595738:       Bolt
+	595808:       Orion Mini
+	595956:       POP C5
+	596022:       Boulder
+	596092:       Touch Book 7.0
+	596221:       Desire 320
+	596257:       Galaxy S5
+	596271:       Prestige 7L
+	596298:       Argos NAV
+	596487:       Breeze
+	596639:       Enjoy 71
+	596676:       Orbit Tab Phone 7
+	596804:       Iconia One TD070VA1
+	596818:       KICKER
+	596910:       Galaxy A7
+	597034:       Onyx
+	597071:       SMT 8P3600
+	597100:       Fire C
+	597113:       One Touch Fire C
+	597141:       One Touch Fire E
+	597178:       Pixi 3
+	597196:       One Touch 4012A Fire
+	597202:       One Touch 4012A Fire
+	597210:       Mobii 701
+	597295:       G3
+	597320:       One M8
+	597333:       Galaxy S5
+	597351:       Bolt Ninja A35
+	597363:       HTC One M8
+	597401:       Canvas Pep
+	597448:       Aqua A1
+	597532:       Galaxy J1
+	597567:       Galaxy Note
+	597582:       Canvas Fire 4
+	597633:       G4
+	597708:       Slim
+	597778:       Telepatria
+	597865:       StarTab
+	597881:       One
+	597894:       Android 320
+	598008:       E8LTE
+	598075:       G Pad 8.0
+	598092:       LG G3 Stylus
+	598101:       G3
+	598121:       L Prime
+	598138:       Spirit
+	598155:       Leon
+	598220:       Leon
+	598284:       Spirit 4G LTE
+	598357:       Spirit
+	598391:       Joy
+	598664:       Power
+	598683:       Destiny
+	598810:       Sunrise
+	598826:       Sunrise
+	598891:       G Pad F
+	598910:       G3 Vigor
+	598975:       G Flex 2
+	598991:       G Flex 2
+	599006:       SmartPad
+	599060:       Motion Plus
+	599195:       Multipad 7 Pro Duo
+	599413:       Karbonn Smart A51+
+	599426:       iBall Slide
+	599439:       Zenfone C
+	599512:       VoiceTab Plus
+	599807:       MultiPad
+	599842:       MultiPhone 5000 DUO
+	599856:       MultiPhone 4505 DUO
+	599995:       Road
+	600140:       Morado
+	600170:       STYLISTIC M532
+	600212:       Walkman
+	600658:       Mediacom Smartpad 8.0
+	600712:       Xperia E4
+	600740:       M1 Note
+	600779:       Smart E4
+	601011:       Luna
+	601040:       Q-pad QS0730C
+	601074:       MultiPhone 4040 DUO
+	601805:       Compact
+	601949:       MultiPhone 4000
+	601991:       MegaFon
+	602175:       S2110AH
+	602367:       MultiPad 4 Pro Quad 8.0
+	602495:       OneTouch PIXI 8
+	602687:       Turbo
+	602828:       Octa
+	603029:       Galaxy Tab 3
+	603096:       Steppa
+	603162:       Galaxy A5
+	603189:       Machone Titanium
+	603262:       Ultrafone
+	603294:       Grand S
+	603309:       Galaxy Grand 3
+	603358:       Gakaxt S Duos 3
+	603371:       Lumia 630
+	603422:       Golden Warrior
+	603480:       Xperia E4
+	603520:       Bolt
+	603592:       Galaxy Tab 4 10.1
+	603645:       Galaxy Grand Neo Plus
+	603750:       ATIV S Neo
+	603765:       WIN JR W410a
+	603829:       Lumia 735
+	603878:       Pad Nexus
+	604056:       G4
+	604225:       Lumia 640 LTE
+	604293:       Lumia 535
+	604299:       Lumia 535
+	604904:       WIN HD W510l
+	605144:       Nubia Z9 Mini
+	605196:       Desire D826W
+	605209:       Xperia Z4/Z3+ Dual
+	605259:       Moto G 4G (2nd Gen)
+	605279:       Moto E (2nd Gen)
+	605599:       Canvas Juice 2
+	605776:       Nokia 909
+	605800:       Lumia 635
+	605819:       Windows Phone 8X
+	605825:       Lumia 930
+	605834:       Lumia 1020
+	605852:       Lumia 820
+	605863:       Lumia 638
+	605991:       Ares
+	606038:       Mediacom Smartpad 8.0 S2
+	606067:       Nubia Z5S
+	606109:       Hongmi 2 4G / Redmi 2 Dual SIM
+	606139:       YOGA Tablet 2 Pro
+	606287:       Smartab 5.5
+	606303:       SLIDE
+	606488:       PhonePad S551U
+	606575:       Noir
+	606597:       SmartPad 8.0 S2 3G
+	606626:       HTC Desire
+	606642:       SmartPad 7.0 S2 3G
+	606674:       Lava Iris X1 Beats
+	606763:       SmartPad 10.1 HD Pro
+	606786:       Trevi Tablet PC 7.85
+	606918:       Fonepad 7
+	606932:       Fonepad 8
+	606961:       MeMO Pad 8
+	607005:       Ascend Y540
+	607029:       Voice Tab II
+	607044:       HITMAN DG850
+	607102:       Zelig Pad 10.1
+	607197:       Titanium
+	607252:       4.5 4G
+	607397:       50C Oxygen
+	607506:       PF83 PhoneTab
+	607829:       Transformer Pad
+	608043:       Padfone Infinity 2
+	608149:       Galaxy A7 Duos
+	608166:       Galaxy S5 Duos
+	608251:       Galaxy Tab 3V 3G
+	608355:       YOGA Tablet 2-830L
+	608370:       SmartPad iPro 110 3G
+	608410:       Xperia E4g
+	608459:       Galaxy Note 4 Dual Sim
+	608531:       PhonePad Duo S650
+	608658:       SmarTab ST600
+	608751:       Victory
+	608764:       Galaxy Alpha
+	608835:       Hongmi (Redmi) 2 4G
+	608866:       SmartPad 10.1 S4 3G
+	609025:       Qun Fa
+	609305:       Canvas Selfie
+	609317:       Lite
+	609438:       Ascend P7
+	609467:       Galaxy Core Prime
+	609530:       Panther
+	609627:       Galaxy Tab4
+	609656:       Sisley
+	609689:       Stellar
+	609778:       Celkon Campus
+	609817:       Phonepad
+	609890:       Stellar 431
+	609918:       Iconia
+	609979:       Millennium Ultra
+	610059:       HTC Desire 820
+	610124:       One Touch Pop 2
+	610166:       Galaxy A5 Duos
+	610366:       Redmi
+	610380:       Titans 2
+	610460:       Galaxy Note 4 Duos
+	610511:       Galaxy Grand Prime
+	610554:       Kyocera DuraForce
+	610581:       Electrify M
+	610595:       Zen Firefox
+	610607:       Infinix Zero
+	610636:       Memo Pad 10
+	610690:       Winner+
+	610833:       Check Plus
+	611114:       Videocon Infinuim
+	611127:       Stellar
+	611188:       Funbook 3G
+	611300:       Titanium Ultra
+	611329:       Obi Hornbill
+	611356:       Maxx MSD7
+	611756:       Galaxy S4
+	611796:       TITANS
+	611984:       XENON X150B
+	612103:       XENON
+	612266:       Ascend G760-Dual
+	612403:       G2
+	612733:       SN1
+	612929:       L60
+	612942:       Galaxy Note 3 Neo
+	613425:       PREDATOR
+	613440:       Mediapad 10 Link
+	613474:       P8 Lite
+	613715:       P8
+	613916:       KIRK3 M
+	613940:       Galaxy Note 4
+	613977:       Galaxy S4
+	614151:       KTAB
+	614196:       G Flex 2
+	614229:       Crossroads
+	614499:   <device id=sony_c5303_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; Xperia SP Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=sony_c5303_ver1>
+	614504:   <device id=sony_c5303_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; Xperia S Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.61 Mobile Safari/537.36 fall_back=sony_c5303_ver1>
+	614510:   <device id=sony_d2303_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; Xperia M2 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=sony_d2303_ver1>
+	614610:       Smart Mini
+	614644:       Galaxy S5
+	614661:       Galaxy Note3
+	614680:       Xperia Z1
+	614715:       Galaxy Note Edge
+	614731:       Xperia Z Ultra
+	614745:       Xperia Z2
+	614764:       Xperia Z3
+	614786:       One M9
+	614872:       Galaxy S5
+	614888:       Galaxy S5 Active
+	614917:       Galaxy Note 3
+	614933:       HTC Desire Eye
+	614951:       Galaxy Note Edge
+	614967:       G3
+	614998:       Xperia Z3 Compact
+	615047:       HTC Desire 826 Dual SIM
+	615104:       Life
+	615119:       Xperia Z2
+	615177:       Galaxy S6
+	615191:       OCTA-S
+	615231:       Galaxy Note 4
+	615251:       Xperia Z3 Dual
+	615268:       Galaxy S6
+	615314:       Yureka
+	615357:       Galaxy Tab 2
+	615466:       Galaxy Note 4
+	615481:       Galaxy Note 3
+	615541:       Galaxy Alpha
+	615576:       G3 LTE-A
+	615836:   <device id=xiaomi_redmi_note_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; RedMi Note Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 fall_back=xiaomi_redmi_note_ver1>
+	615847:   <device id=mot_xt923_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; RAZR HD Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=mot_xt923_ver1>
+	616059:       Helium
+	616136:   <device id=lg_e975_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; Optimus G Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=lg_e975_ver1>
+	616141:   <device id=lg_e975_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; Optimus G Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.61 Mobile Safari/537.36 fall_back=lg_e975_ver1>
+	616158:   <device id=htc_m8_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; One M8 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.68 Mobile Safari/537.36 fall_back=htc_m8_ver1>
+	616251:   <device id=motorola_xt1058_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; Moto X Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 fall_back=motorola_xt1058_ver1>
+	616257:   <device id=motorola_xt1032_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; Moto G Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.68 Mobile Safari/537.36 fall_back=motorola_xt1032_ver1>
+	616263:   <device id=motorola_xt1022_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; Moto E Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 fall_back=motorola_xt1022_ver1>
+	616268:   <device id=motorola_xt1505_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1; MotoE2(4G-LTE) Build/LPI23.30) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=motorola_xt1505_ver1>
+	616273:   <device id=motorola_xt1505_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1; MotoE2(4G-LTE) Build/LPI23.35) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36 fall_back=motorola_xt1505_ver1>
+	616282:       Impact A10
+	616308:       Journey One
+	616383:       G4
+	616682:       Grace
+	616716:       Thunder
+	616765:       Arrows NX F-02G
+	616807:       Active 8
+	617054:       Smart pad 10.1 S4
+	617114:       Primo E4
+	617316:       8Go
+	617619:       Galaxy S5
+	617703:   <device id=sony_d5306_ver1_subuamarketing user_agent=Mozilla/5.0 (Linux; Android 4.4.2; Ultra Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 fall_back=sony_d5306_ver1
+	617708:       Raptor
+	617747:       Smart 4 max
+	617911:       YotaPhone 2
+	618119:       Galaxy
+	618256:       Eee Pad Transformer TF101G
+	618393:       Nubia Z7 Max
+	618427:       Honor 6 Plus
+	618487:       Stylo
+	618552:       G Stylo
+	618565:       Desire 820 mini
+	618586:       G Pad F 7.0
+	618658:       Mediapad T1 8.0 Pro 4G
+	618705:       Iconia One 7
+	618722:       Tab 2
+	618819:       L45
+	618848:       Galaxy Grand Max
+	618891:       F70
+	618971:       Optimus L70
+	619003:       Millennia Epic
+	619022:       ASCEND G630
+	619055:       MultiPad Ranger
+	619069:       Platinum
+	619081:       Opus 2
+	619102:       Magna
+	619288:       Pixi 3
+	619444:       One Touch Idol 3
+	619527:       One Touch Idol 3 Dual SIM
+	619562:       Aquaris 4
+	619707:       Vertis 4010 You
+	619856:       DASH 5.0+
+	619897:       HTC One M8Et Eye 4G
+	619900:   <device id=sony_sgp521_ver1_suban50marketing user_agent=Mozilla/5.0 (Linux; U; Android 5.0.2; sv-se; Xperia Z2 Tablet LTE Build/LRX22G) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Safari/537.16 fall_back=sony_sgp521_ver1>
+	619915:       Aquila 101-1008 3G
+	619948:   <device id=digma_optima_tt7025mg_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; Android 4.4.2; Optima 7.5 3G TT7025MG Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Safari/537.36 fall_back=digma_optima_tt7025mg_ver1>
+	619951:       Optima 7.5 3G
+	620082:   <device id=zte_v830w_ver1_subuamarketing user_agent=Mozilla/5.0 (Linux; Android 4.4.2; Blade G Lux Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 fall_back=zte_v830w_ver1
+	620085:       Edison 3 3G
+	620095:       Canvas Tab
+	620132:       MultiPad 7.0
+	620149:       MultiPad Ranger 8.0 3G
+	620178:       Ascend Y550-L02
+	620185:       J butterfly
+	620376:       Zielo
+	620390:       Zielo
+	620420:       Nimbus
+	620451:       Nimbus
+	620466:       Kis 3 V811W
+	620546:       Desire 612
+	620784:       G Pad 7.0 LTE-A
+	620813:       DuraXV
+	620847:       Padfone S
+	620876:       Tegra Note 7
+	621002:       Padfone S
+	621212:       Galaxy Tab A
+	621241:       Trooper
+	621297:       STEELCORE 1010 3G
+	621526:       Honor 4X
+	621555:       Diamond
+	621603:       Power Plus
+	621617:       
+	621624:       Videocon Infinium
+	621638:       Liquid Z205
+	621650:       YOGA Tablet 2-830LC
+	621678:       Desire 626
+	621735:       Silver Smoke
+	621830:       Revel Pro
+	621955:       Xperia M4 Aqua
+	622005:       Liquid Jade S
+	622025:       L-Pad Meteor Q 9
+	622054:       Galaxy S6
+	622068:       One Dual Sim
+	622082:       Xperia tipo
+	622124:       One M8
+	622157:       Xperia Z4 Tablet
+	622179:       M8
+	622226:       Desire 816 Dual Sim
+	622257:       Moto G
+	622290:       Moto E
+	622307:       Galaxy S5 mini
+	622336:       M7
+	622368:       One E8
+	622386:       Xperia Z1
+	622407:       G2
+	622439:       Titans 2
+	622636:       Dazzle
+	622677:       Air A83T
+	622765:   <device id=sony_xperia_d6653_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; Android 4.4.2; Sony Xperia Z3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 fall_back=sony_xperia_d6653_ver1>
+	623148:       Andromax C2
+	623163:       Excer
+	623210:       Tablet e-Way 78T
+	623302:       EverVivid
+	623557:       Xcover 3
+	623582:       L-EMENT 550
+	623663:       Ascend Y336
+	623692:       Cynus F6
+	623721:       Smart first 6
+	623735:       ARROWS Tab F-03G
+	623867:       Konnect
+	624045:       M4Play
+	624084:       Ilium S420
+	624136:       Fonepad 7
+	624219:       M4 In Touch
+	624274:       AG Chrome Go Tab 7.0
+	624380:       MultiPad 4 Ultimate 8.0
+	624539:       Zonda FIT
+	624553:       Evo
+	624572:       S5E New
+	624616:       Nubia Z5S Mini
+	624670:       ETAB M7023G
+	625033:       Pulse
+	625055:       Boost
+	625067:       T80 3G
+	625422:       Social 3s
+	625462:       YPAD YP712
+	625738:       Leon
+	625889:       Moon DG130
+	626012:       Lifestyle 4SL QC
+	626066:       MySmart QS5
+	626179:       Toughpad
+	626205:       Galaxy S5
+	626289:       Legend
+	626339:       Blackphone
+	626373:       G4C
+	626390:       Magna
+	626446:       K3 Note
+	626460:       K3
+	626498:       YPAD
+	626614:       G Play Mini
+	626641:       LAVA 5.0
+	626748:       Wise A3
+	626823:       DTV
+	626841:       Slim
+	626860:       Flare 3
+	626880:       Fantasy U
+	626899:       iNote Prime
+	626927:       iNote
+	626976:       Vodafone Tab prime 6
+	627101:       Sm@rt
+	627115:       Itel iNote Mini
+	627126:       Galaxy Core 2 Duos
+	627268:       Galaxy S6 Active
+	627366:       Hot
+	627380:       Hot Note
+	627652:       Phantom PAD II
+	627765:       Lumia 640 Dual Sim
+	628032:       Surf Spice
+	628095:       Sm@rt S620
+	628521:       Optimus G Pro
+	628544:       F7
+	628569:       Honor 4X
+	628625:       One m9+
+	628741:       Galaxy Grand 3 LTE
+	628836:       WIN JR W410u
+	628894:       DoCoMo tablet Xperia Z2 Tablet
+	629009:       MultiPhone 7500
+	629256:       Desire D620h
+	629748:       S6
+	629859:       Star Note 2
+	629909:       Libero Plus
+	629979:       Point of View TAB
+	630126:       P8
+	630169:       Smart Prime 6
+	630397:       Liquid Z520
+	630577:       Tablet Surya Reaction
+	630855:       Vega Iron 2
+	630894:       Yoga B6000-F
+	631117:       Evodroid w10
+	631151:       Windows Phone 8X
+	631178:       Windows Phone 8X
+	631275:       Nebula
+	631334:       Stellar
+	631348:       Idea Fab
+	631382:       T-Pad
+	631417:       One Touch Pop S9
+	631508:       One Touch Pop S7
+	631595:       ONE TOUCH 6035R
+	631756:       Fly Evo Energy 4
+	632391:       Droid 4
+	632428:       DEFY XT
+	632449:       RAZR
+	632500:       Primus
+	632519:       Moto Maxx
+	632648:       Droid RAZR M
+	632666:       RAZR V
+	633044:       Droid Turbo 2
+	633174:       Galaxy Core Prime
+	633219:       Galaxy Note Pro 12.2
+	633266:       Galaxy Core Lite
+	633308:       Xperia Z2a
+	633333:       Xpe
+	633485:       P8 Lite
+	633576:       Xperia E4
+	633590:       Xperia E4 Dual
+	633628:       Xperia E4g Dual
+	633659:       Xperia M4 Aqua Dual
+	633690:       Xperia C4
+	633711:       Xperia C4 Dual
+	633733:       Xperia Z3+
+	633751:       Xperia Z4v
+	633818:       Xperia Z4 Tablet WiFi
+	633981:       Xperia Z3v
+	634016:       Galaxy Stardust
+	634121:       Galaxy Round
+	634236:       G Pad X8.3
+	634253:       Venue 8
+	634614:       Canvas Spark
+	634686:   <device id=htc_desire_c_ver1_subuamarketingu3k10 user_agent=Mozilla/5.0 (Linux; U; Android 4.0.3; en-US; HTC Desire C Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.0.1.512 U3/0.8.0 Mobile Safari/534.30 fall_back=htc_desire_c_ver1>
+	634698:       HTC Desire HD
+	634750:       Nubia Z9
+	634780:       Andromax U2
+	634823:       Flare lite
+	634929:       KOLORPAD
+	635096:       MultiPad 4 Quantum 3G
+	635211:       Y360
+	635224:       Escape2
+	635289:       Desire 626g+
+	635348:       G4 Metallic Gray Silver
+	635365:       G Pad F
+	635480:       One E8
+	635526:       Xperia ZL
+	635595:       Spin
+	635621:       Zephyr
+	635654:       Tab
+	635687:       
+	635716:       Netsurfer
+	635737:       Overture 2
+	635765:       Blade
+	635778:       MultiPad 4 Diamond 10.1
+	635829:       Joy Smart
+	635843:       Andromax AD682H
+	635864:       TAB 2
+	635895:       Andromax-i AD683J
+	635912:       One Touch POP Astro
+	635980:       Solar
+	636017:       Tab
+	636033:       Neo
+	636063:       Xpress Smartlife Series 8 Inch Tablet
+	636141:       Premio
+	636255:       S6
+	636311:       Bolt
+	636338:       Noir A2 Classic
+	636395:       Vega Secret Up
+	636479:       Lever
+	636493:       Gaia Mini
+	636548:       eTouch Everyday
+	636563:       Prestige Elite 8Q
+	636617:       Bolt
+	636672:       Curiosity
+	636882:       Zeus
+	636960:       Elevate Y
+	636991:       
+	637043:       G3 Beats
+	637080:       Quattro II 4G
+	637396:       Fir
+	637497:       Joy Plus
+	637537:       Andromax
+	637551:       LAVA 4.0
+	637595:       Smart Point
+	637628:       Aurus III
+	637636:       YOGA Tablet 2-1050L
+	637651:       Meo Tablet 2
+	637681:       Kanji
+	637709:       isai VL
+	637795:       TMN Smart A60
+	637893:       Amethyst
+	637906:       Pop 10
+	637997:       B.elite
+	638241:       Leon
+	638335:       Aquos Pad
+	638442:       Torque XT
+	638456:       A7
+	638515:       Fantasy 2
+	638672:       Fantasy Power
+	638686:       Joy
+	638788:       Flash
+	638826:       EKT Stardust II
+	638974:       Pro Slate 8
+	639026:       Symbol
+	639072:       Essential
+	639155:       Storm
+	639240:       TAB 2 A10
+	639254:       Sunny
+	639289:       Intelligence
+	639355:       Ruby
+	639424:       Power Phone 4G
+	639653:       Yuphoria
+	639678:       T1X Plus
+	639693:       Smartphone Motion Plus
+	639866:       Space
+	639899:       Promise MG480
+	639932:       Alcatel One Touch Snap
+	639972:       Piano
+	640077:       Glory 2
+	640103:       Memo Pad 8
+	640223:       Ascend G760-L03
+	640231:       Smile
+	640272:       Viva
+	640392:       Virtue
+	640614:       Desire 310
+	640820:       Liquid
+	640998:       Peacock
+	641612:       Nextbook 8 Premium
+	641642:       7 G3
+	641713:       Smart Wine
+	641854:       Liquid Jade Z
+	641893:       Vidaa pad
+	642029:       PhonePad Duo
+	642073:       MediaPad 10 Link +
+	642118:       Leo
+	642144:       Smart Fly
+	642185:       Desire 626g
+	642411:       Viva
+	642431:       Desire 709d
+	642445:       Rainbow
+	642464:       Sunny
+	642481:       Smiley
+	642615:       One M8 Eye
+	642641:       TAB S8
+	642683:       D165AR
+	642738:       Honor 4C
+	642783:       Rocket Q-Five
+	642856:       Curiosity
+	642941:       L40 Dual
+	642985:       Galaxy Note 5
+	643283:       Sm@rt S620 mini
+	643370:       Leo
+	643559:       One Touch Pixi 4007X
+	643697:       Curiosity
+	643759:       Unite 3
+	643913:       Galaxy Ace 4 Neo
+	643927:       Amethyst Black
+	644054:       Tahiti
+	644062:       Note 2
+	644115:       Smart Pro
+	644159:       Smart Flo
+	644178:       Pronto LTE
+	644356:       Smart Fun
+	644493:       Smart HD
+	644558:       Smart Flo
+	644793:       Ascend
+	644927:       Lifetab
+	644971:       Aquos Zeta
+	644990:       Band Play
+	645023:       G4 Beat
+	645101:       Canvas Doodle 4
+	645115:       Canvas Play
+	645185:       F2
+	645248:       Arrows NX
+	645313:       LAI Z
+	645548:       DroiPad 8
+	645601:       G Pad 7.0
+	645610:       MediaPad X2
+	645631:       Tribute 2
+	645646:       Galaxy Tab A
+	645674:       Maven
+	645688:       Canvas Selfie Lens
+	645713:       Prime
+	645742:       M2 Note
+	645781:       Mi Note Pro
+	645802:       One M8 Eye
+	645821:       Xperia A4
+	645997:       Logos
+	646109:       Canvas Knight 2
+	646124:       Flex 10.1
+	646139:       Flex Elite 7.85
+	646205:       LG Stylus
+	646212:       G3 Stylus
+	646306:       Liquid Z220
+	646515:       Canvas Nitro 2
+	646568:       Pixi 3
+	646847:       Galaxy W
+	647007:       Digno C
+	647062:       P8 Max
+	647106:       Redbull V5
+	647138:       Darwin Kupra KP500
+	647222:       8S
+	647239:       Ascend W2
+	647286:       Lumia 435
+	647301:       Lumia 535
+	647307:       Lumia 535
+	647313:       Lumia 535
+	647324:       Lumia 920
+	647330:       Lumia 1020
+	647351:       Lumia 520
+	647362:       Lumia 1520
+	647368:       Lumia 1520
+	647374:       Lumia 1520
+	647380:       Lumia 625
+	647391:       Lumia 830
+	647407:       Lumia 1320
+	647413:       Lumia 1320
+	647419:       Lumia 1320
+	647425:       Lumia 720
+	647431:       Lumia 525
+	647453:       Curiosity i6
+	647479:       Life E4001
+	647539:       Galaxy Core Prime
+	647626:       Zero 2
+	647654:       
+	647707:       Race Bolt Q
+	647804:       Lumia 535
+	648020:       Moto X Style/Pure
+	648049:       M2
+	648070:       Elife S5.1
+	648097:       Ascend G7
+	648170:       Kestrel EE
+	648184:       Hero 2
+	648300:   <device id=sonyericsson_st25i_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1.1; Xperia U Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=sonyericsson_st25i_ver1>
+	648434:       Gentle
+	648458:       G4 Stylus
+	648473:       G4 Stylus
+	648614:       G4S
+	648695:       G4S
+	648717:       Galaxy S6 Edge Plus
+	648890:       Spro 2
+	648938:       Lancet
+	649010:       XP5
+	649023:       LeTV one
+	649062:       J Butterfly
+	649111:       AQUOS PHONE Xx
+	649161:       One M7
+	649209:       Galaxy Tab S2 9.7
+	649356:       Galaxy Tab S2 8.0
+	649439:       Galaxy A8
+	649531:       Bolt
+	649579:       Aqua Y2 Ultra
+	649593:       Canvas Sliver 5
+	649614:       Desire 820G+
+	649628:       Pixel V1
+	649665:       2
+	649726:       Pioneer P4S
+	649782:       Andromax
+	649816:       Honor Bee
+	649901:       Galaxy J7
+	649948:       Bolt S301
+	649967:       Dazzle 2
+	650023:       Honor 4 Play
+	650051:       Pixi 3
+	650073:       CAPTURE HD
+	650101:       Galaxy J5
+	650123:       Galaxy Grand Prime Value Edition
+	650150:       High 2
+	650288:       Campus
+	650357:       DuraXE
+	650660:       Canvas Hue 2
+	650798:       Era Energy 1
+	651358:       Lumia 520
+	651370:       Lumia 630
+	651381:       Lumia 625
+	651418:       Lumia 532
+	651437:       Lumia 1320
+	651464:       Lumia 535
+	651501:       Lumia 532
+	651560:       Lumia 620
+	651566:       Lumia 532
+	651588:       Lumia 435
+	651612:       Lumia 435
+	651618:       Lumia 735
+	651631:       Lumia 730
+	651638:       President
+	651656:       Lumia 635
+	651679:       Lumia 635
+	651715:       Lumia 630
+	651721:       Lumia 735
+	651744:       Lumia 640 XL LTE
+	651750:       Lumia 638
+	651794:       Lumia 535
+	651815:       Lumia 435
+	651860:       Fair Phone 2
+	651956:       Lumia 640 XL
+	651962:       Lumia 535
+	651981:       Lumia 635
+	652000:       Lumia 830
+	652007:       Lumia 820
+	652032:       Lumia 950 XL
+	652049:       Lumia 640 XL LTE
+	652071:       Lumia 532
+	652100:       Ascend W2
+	652111:       Windows Phone 8X
+	652117:       Lumia 535
+	652130:       Lumia 435
+	652155:       L20
+	652264:       Bolt
+	652274:       Hydro Wave
+	652316:       Galaxy Tab 4 Lite
+	652411:       Cosmo C505
+	652468:       Galaxy J1
+	652486:       Desire 526
+	652514:       Bolt
+	652526:       OneTouch PIXI 3
+	652540:       OneTouch PIXI 3
+	652594:       Sonata 2
+	652608:       Canvas Xpress 2
+	652644:       Blade A3
+	652725:       Amazing
+	652751:       OneTouch Pixi 3 (7)
+	652766:       Raven
+	652779:       Galaxy J1
+	652883:       Turbo 401
+	652895:       Axe Plus
+	652936:       Kite
+	653214:       Tri Chip
+	653357:       YOGA Tablet 2-1050L
+	653475:       Ilium S130
+	653559:       Joy 3
+	653642:       Atlas
+	653655:       Lumia 430
+	653662:       N3
+	653709:       Canvas Selfie 2
+	653804:       Galaxy Tab E
+	653856:       One Touch Pop C1
+	653873:       G Play
+	653897:       Magna LTE
+	653952:       Galaxy Tab A 9.7
+	654000:       Ascend G615
+	654014:       Lai Zoro
+	654027:       Lai Yollo
+	654040:       Galaxy Golden 2
+	654083:       MediaPad X2
+	654159:       AKA
+	654206:       AG Chrome Go Tab 7.0 3G
+	654253:       Be Touch 2
+	654272:       Boost View 5.0
+	654313:       Max
+	654333:       Aurora II
+	654408:       Ascend Y550
+	654484:       Joy
+	654511:       Infinity H3
+	654548:       Modena
+	654589:       Risio
+	654633:       Kyocera Urbano V02
+	654758:       Honor 7
+	655016:       Alov
+	655201:       Juno
+	655219:       M2+
+	655250:       Fanfare
+	655304:       One Touch Hero 2C
+	655372:       
+	655583:       2
+	655601:       Paragon
+	655667:       L20
+	655701:       Desire 626
+	655713:       Redmi Note 2
+	655948:       Valencia 2
+	655973:       Blade Q Lux
+	656186:       iQTalk S8
+	656252:       MultiPad
+	656346:       One A9
+	656383:       Moto X Play
+	656457:       W1
+	656469:       YOGA Tablet 2-830L
+	656480:       Lumia 435
+	656500:       Pixel C
+	656525:       Lumia 535
+	656548:       Lumia 435
+	656570:       Lumia 532
+	656633:       Lumia 430
+	656658:       WIN JR W410l
+	656664:       WIN JR W410i
+	656694:       Lumia 540 Dual SIM
+	656700:       Lumia 535
+	656710:       WIN JR W410u
+	656737:       Xperia Z5 Compact
+	656761:       Xperia Z5
+	656788:       Xperia Z5 Dual Sim
+	656795:       Xperia Z5 Dual Sim
+	656805:       Experia Z5 Premium
+	656822:       Experia Z5 Premium Dual Sim
+	656836:       Experia Z5 Premium Dual Sim
+	656844:       Lumia 928
+	657145:       Lumia 430
+	657174:       Griffe W1
+	657184:       Lumia 730
+	657225:       Lumia 1520
+	657253:       Lumia 435
+	657260:       Lumia 640 XL
+	657266:       Lumia 532
+	657314:       Onix
+	657341:       Lumia 930
+	657401:       Flex
+	657416:       KOOL Lite
+	657429:       LAI Zumbo
+	657442:       Prime X Plus
+	657455:       Obsidian
+	657468:       Iconia one 8
+	657482:       Stealth G5 10
+	657496:       Zenpad C 7.0
+	657517:       Canvas Tabby
+	657884:       V10
+	657914:       Canvas Tab P680
+	657929:       Canvas Juice 3
+	658001:       8S
+	658008:       ERA Windows
+	658030:       Lumia 730
+	658038:       Lumia 638
+	658094:       Lumia 540 Dual SIM
+	658100:       Lumia 950
+	658112:       Lumia 435
+	658137:       Lumia 435
+	658142:       Lumia 950 Dual Sim
+	658206:       Q900S
+	658221:       Lumia 1520
+	658416:       
+	658432:       Honor 7
+	658461:       P3000S
+	659200:       Juice 2
+	659214:       Canvas Tube
+	659227:       Lumia 625
+	659236:       Ixion W5
+	659347:       8S
+	659441:       Galaxy J2
+	659555:       2
+	659568:       Lumia 735
+	659574:       Lumia 520
+	659581:       Lumia 1520
+	659589:       Lumia 532
+	659662:       Iconia One 7
+	659696:       Lumia 532
+	659705:       Lumia 532
+	659880:       Vibe Shot
+	659894:       Galaxy S5 Neo
+	659912:       Zenfone 2 Laser
+	659957:       Pro10 Edition II
+	659992:       Warp Elite
+	660016:       C5 Ultra
+	660087:       TAB 2 A8-50
+	660414:       Iconia B3-A10
+	660496:       Galaxy Tab A 8.0 LTE
+	660527:       One Touch Conquest
+	660606:       Noir i6i
+	660921:       Fire
+	660952:       Pop 2 (5)
+	660986:       One E9 Dual Sim
+	661014:       Zenpad 10 Z300C
+	661041:       Desire 626s
+	661053:       Flex 8''
+	661078:       Smart Speed 6
+	661097:       G7 Plus
+	661121:       Xperia M5
+	661138:       Zenpad 8
+	661164:       Fire HD 10
+	661179:       Fire HD 8
+	661210:       Xperia Z3
+	661251:       Xperia Z4
+	661297:       A2010
+	661311:       Yu Yureka Plus
+	661325:       Iris X1 Selfie
+	661382:       Vivid
+	661594:       Galaxy S4 mini
+	661916:       Iconia one 8
+	661930:       Aquos Ever
+	662014:       Zenpad
+	662077:       Presitge Elite10QS
+	662091:       Iconia Tab 10
+	662115:       MX5
+	662676:       Zenpad S 8.0
+	662741:       Desire 626s
+	662857:       Color C
+	662940:       Mi 4c
+	662976:       R7 Plus
+	663166:       Torque G02
+	663180:       S3
+	663205:       Zenfone Go
+	663232:       Lancet
+	663268:       Hot 2
+	663305:       Rocket T1
+	663377:       Iconia one 7
+	663398:       YU Yunique
+	663437:       Noir Titan
+	663657:       Linq L15
+	663976:       Nexus 10
+	664081:       Lumia 540 Dual SIM
+	664119:       Lumia 820
+	664145:       Lumia 620
+	664195:       Lumia 830
+	664212:       Lumia 635
+	664229:       Onetouch Pixi 3
+	664242:       Iris Win 1
+	664248:       Titanium Wind W4
+	664255:       WIN 400
+	664314:       Lumia 1520
+	664322:       Lumia 930
+	664374:       Lumia 1320
+	664535:       Tegra Note 7
+	664735:       Canvas Fire 4G
+	664754:       Canvas Blaze 4G
+	664781:       Bolt
+	664950:       Bolt Q332
+	664989:       Priv
+	665122:       Droid Turbo 2
+	665160:       Lanix 1100
+	665339:       Sky 5.0L
+	665358:       Honor Y6
+	665371:       Speed 7
+	665516:       Vibe P1
+	665626:       Spark 2
+	665692:       Stratus 1
+	665710:       G8
+	665936:       X
+	665955:       Honor 4A
+	666024:       Mate S
+	666053:       Xplorer ZV Pro
+	666461:       Lumia 620
+	666475:       Windows Phone 8X
+	666482:       Lumia 730
+	666647:       Droid Maxx 2
+	666741:       Bolt
+	666901:       Panther 4G
+	666915:       Rogue
+	666934:       Union
+	666948:       R7 Lite
+	666973:       Qua Tab
+	667013:       m2
+	667031:       MX5
+	667040:       G4 Vigor
+	667069:       G TV Box
+	667115:       Hydro Air
+	667172:       Bush Spira D1
+	667221:       Bush Spira C1
+	667264:       Grand X2
+	667367:       Y6
+	667414:       Ascend Mate 7S
+	667451:       SmartPad 10.1 HD
+	667631:       One Touch Pop 3(5)
+	667680:       One Touch Fierce XL
+	667713:       R7s
+	667730:       J Butterfly
+	667965:       Galaxy View
+	667980:       Talius Zircon
+	668720:       Xiao Xian 2
+	668955:   <device id=xiaomi_redmi_note_ver1_suban51marketingu3k10 user_agent=Mozilla/5.0 (Linux; U; Android 5.1.1; en-US; XIAOMI NOTE 3G Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.7.0.636 U3/0.8.0 Mobile Safari/534.30 fall_back=xiaomi_redmi_note_ver1>
+	668957:       Redmi Note 3G
+	669304:       Zero
+	669322:       S5.1 Pro
+	669342:       Canvas Spark 2
+	669374:       Galaxy On7
+	669389:       MediaPad M2
+	669438:       Lumia 1320
+	669464:       Lumia 521
+	669503:       G Pad X 10.1
+	669515:       Lumia 720T
+	669529:       Lumia 1520
+	669538:       Canvas Mega
+	669551:       Lumia 822
+	669564:       Lumia 930
+	669610:       Desire 625
+	669652:       Pure XL
+	669660:       Honor 7i
+	669699:       Samurai Miyabi
+	669730:       Prestige
+	669754:       Glory U602
+	669789:       Hanspad 101 Helios
+	670019:       L65
+	670085:       Pixi 3(5)
+	670098:       Desire 728
+	670179:       Iconia One 10
+	670200:       Xenium V526
+	670213:       PRO 5
+	670230:       Energy E653
+	670254:       P8Lite
+	670291:       Canvas 5 E481
+	670310:       Vibe P1m
+	670330:       ZMAX 2
+	670343:       Winner Y Ultra
+	670374:       T45 4G
+	670417:       SUPER COMBO LAVA A1
+	670431:       Aqua Play
+	670476:       Galaxy J1 Ace
+	670508:       Neo 7
+	670581:       MI 4
+	670594:       HIT 4G
+	670624:       Cirrus 1
+	670638:       Fire Plus
+	670675:       Ascend P7
+	670724:       ARGOS EUTB-709B
+	670807:       Galaxy Tab Active WIFI
+	670989:       Wine Smart 3G
+	671354:       Canvas Nitro 3
+	671391:       Hammer S
+	671465:       One Touch Pixi 3 (8.0)
+	671558:       Vjoy Supreme
+	671596:       Pop 3 (5.5)
+	671720:       Smart Grand
+	671895:       Iris N501
+	672266:       Turbo
+	672325:       On5
+	672416:       Galaxy J1 Ace 3G
+	672423:       Go1
+	672483:       Iris Atom 2
+	672563:       TV 4K
+	672575:       Wise Evolution
+	672583:       Leo
+	672596:       Blade Qlux
+	672626:       Juno Quatro
+	672640:       Honor 6 Pro
+	672656:       Nova 3.5
+	672668:       XTab Dual Dual C1081HD
+	672730:       QC Neo
+	672762:       Atrium
+	672787:       Pop Star 2
+	672794:       Yulong 8713
+	672927:   <device id=sony_c5303_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; Xperia SP Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36 fall_back=sony_c5303_ver1>
+	673015:       Titanium S21
+	673028:       R1x
+	673134:   <device id=motorola_xt1022_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; Moto E Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36 fall_back=motorola_xt1022_ver1>
+	673349:       F80's RETRO
+	673361:       Spark 2
+	673408:       Ultrafone 402
+	673415:       Onetouch Hero 2
+	673583:   <device id=alcatel_ot_7042a_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; Alcatel Pop C7 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 fall_back=alcatel_ot_7042a_ver1>
+	673620:   <device id=huawei_mt2l03_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; Ascend Mate 2 Build/MDB08M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36 fall_back=huawei_mt2l03_ver1>
+	673637:       Yoga Tab 3 Pro 10
+	673741:       Xenta 7
+	673768:       Wind II
+	673790:       Q6
+	673859:       Rhythm RX40
+	673916:       Galaxy Tab 3
+	673932:       Nimbus 3
+	673945:       Nova 2.0
+	673957:       Butterfly J
+	674138:       Vandroid S35A
+	674148:       Desire D826D
+	674156:       XM 708 Magic
+	674604:       Elevate Y Power
+	674728:       Racoon S401
+	674774:       KA4 PLus
+	674859:       Prestige Elite8QS
+	674965:       One Touch Pixi 3 (7)
+	675050:       Ascend G7
+	675096:       Desire 526
+	675103:       Eclipse
+	675178:       Culcan Phone 4.5&quot; Intel Dual Core Phone
+	675191:       Xlife 511 Pro
+	675352:       Campus Nova A352E
+	675417:       Brevis 785DC 3G
+	675432:       Firefly 7 M7505
+	675470:       Ascend Y560
+	675603:   <device id=samsung_sm_g920_ver1_subuamarketing user_agent=Mozilla/5.0 (Linux; Android 5.0; Samsung Galaxy S6 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 fall_back=samsung_sm_g920_ver1
+	675645:       4.0D
+	675677:       Galaxy S4 LTE
+	675758:       Nexus 5X
+	675765:       Multipad Consul 7008 4G
+	675822:       Optimus F5
+	676161:       MultiPad Muze PMT5008 3G
+	676379:       L-pad STAR S16
+	676433:       Flex Tablet
+	676448:       1207 A31t
+	676548:       Galaxy Tab A 9.7
+	676567:       XP7
+	676664:       GPad 701
+	676770:       Dorado
+	676854:       Fox S453
+	677009:       Galaxy Core Max
+	677043:       Vega No 5
+	677080:       Desire 620
+	677099:       Andy A4
+	677272:       Bolt
+	677310:       Neuimage
+	677442:       ePad Genie
+	677474:       EXPad series EX020D
+	677488:       K-Phone1
+	677581:       J Butterfly HTV31
+	677595:       Aquos K
+	677608:       Hop Smart V811
+	677670:       Phantom Z Mini
+	677683:       Bolt Q331
+	677698:       Bolt Q339
+	677711:       Canvas Blaze 4G
+	677739:       Canvas Pep
+	677752:       Canvas Express 4G
+	677789:       Canvas
+	677823:       Ascend Mate 7
+	677985:       Bolt S302
+	677999:       Bolt D305
+	678012:       Canvas Amaze Q395
+	678026:       Canvas Pace 4G Q416
+	678056:       Canvas Blaze HD
+	678147:       Canvas Breeze Tab P660
+	678187:       Amaze 4G
+	678219:       Canvas Tab P290
+	678298:       Canvas Ego A113
+	678317:       IQ X BLIZ
+	678344:       Funbook Duo
+	678358:       Canvas Duet
+	678384:       Bling 3
+	678410:       Funbook
+	678544:       Canvas Spark
+	678568:       Honor Play 4C
+	678603:       Honor 5X
+	678722:       Zenfone Selfie
+	678736:       Galaxy S III Neo Plus
+	678800:       Ascend GX1
+	678832:       Ascend G7
+	678861:       M1 Note M463C
+	678977:       Bolt Q333
+	679060:       Hero X
+	679086:       Bolt
+	679143:       Oxford
+	679169:       Idol CHAC
+	679221:       Infinium Z40 Pro
+	679264:       Telstra Rush
+	679275:       Infinium Z40 Lite +
+	679341:       Bold 2
+	679569:       Elife S7
+	679635:       NetTab Sky HD 3G
+	679680:       Aspen Mini
+	679765:       Elife S5.5
+	679805:       LG Stylus
+	679875:       Fantasy Mini
+	680112:       Pegasus
+	680151:       Curiosity i4
+	680202:       Camon C8
+	680282:       OneScribe
+	680295:       Maverick
+	680321:       Python
+	680344:       Prime 3G
+	680370:       Flex Tablet
+	680476:       Nitro Pro M88
+	680571:       Idol X
+	680608:       Expose
+	680621:       Teng Letter
+	680975:       Prime Plus
+	681002:       Xperia M5
+	681014:       Meilan 2 (m2)
+	681047:       Idol
+	681067:       Ascend P7
+	681118:       Nubias Z9 Max
+	681272:       X5Pro
+	681292:       1S
+	681330:       Axon Tianji
+	681481:   <device id=lg_e970_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1.1; LG Optimus G Build/LMY48G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36 fall_back=lg_e970_ver1>
+	681547:       Wine Smart Jazz
+	681651:       Yoga Tablet 3 8.0
+	681703:       CLUE L
+	681764:       Enjoy 5
+	681778:       Desire 828
+	681808:       ONETOUCH POP Star
+	681976:       Titanium Machfive
+	682073:       Redmi Note 4G
+	682142:       Zenfone 2 Laser
+	682310:       YOGA Tablet 2-830LC
+	682318:       Voyager Pro
+	682339:       10 G2 Tablet
+	682697:       Galaxy Note II LTE
+	682824:       Mate 8
+	682964:       Nexus 5X
+	683005:       Dual Sim
+	683602:       Nexus 6P
+	683846:       Nexus 7
+	683913:       Desire 626s
+	684432:       Campus
+	684449:       Flyer
+	684503:       A3
+	684866:       Ascend G7
+	684880:       Galaxy A5 2016 Duos
+	685868:       Z5 Premium
+	685889:       Stratos
+	685903:       Galaxy Tab View
+	685918:       Galaxy Tab E 8.0
+	686108:       Venue 10 7000 Series
+	686128:       Venue 10 5000 Series
+	686143:       Venge X
+	686169:       U8 Universe Tap
+	686389:       Noir
+	686482:       Venus
+	686519:       Allure A100
+	686532:       Allure A55
+	686545:       Plume P4
+	686642:       Nexus 5X
+	686660:       Ascend Y360
+	686756:       Ascend G760-L03
+	686860:       Galaxy Tab Active WIFI
+	686910:       Marathon
+	687148:       Sirius
+	687376:       POLAR
+	687533:       Ascend Y560
+	687541:       Bolt D340
+	687602:       Ascend Y560
+	687711:       Convoy
+	688145:       Canvas Mega 4G
+	688191:       Pixi 3 (4.5)
+	688213:       Millennia Everest
+	688253:       Cirrus 2
+	688296:       Worldphone SF1
+	688415:       Vibe S1
+	688429:       Fever 4G
+	688532:       X6 Plus
+	688569:       Bello II
+	688758:       Aquos Crystal 2
+	688806:       Nubia My Prague
+	688957:       ZenPad 7.0
+	688984:       Life
+	689034:       ZenPad 10
+	689176:       Diamond
+	689240:       Nubia Z9 Max
+	689267:       Xperia Z5 Compact
+	689340:       Y6
+	689347:       Elife E8
+	689364:       Moto X Force
+	689407:       LAI Z1
+	689420:       PRIME X Max
+	689439:       LAI Yuna
+	689446:       PRIME X Grand
+	689459:       LAI Yuki
+	689472:       Iconia Talk S
+	689660:       Netsurfer Sharp
+	689704:       Aquos Pad
+	689944:       Galaxy Golden 3
+	690021:       Galaxy J3 Duos
+	690122:       55 Helium +
+	690174:       Honor ShotX
+	690227:       MediaPad M2 10.0
+	690274:       Tribute 5
+	690295:       Desire 728G dual sim
+	690435:       2015 5 inch Octa core
+	690467:       Fly O21S
+	690608:       Prestige Prime 10ES
+	690634:       Muze E3
+	690716:       Penta T-Pad WS704Q 3G
+	690730:       Pop 2 Premium
+	690750:       Penta T-Pad WS704Q Ultra 4G
+	690847:       Pixi 3 (10)
+	691012:       arrows NX F-02H
+	691110:       Galaxy J1 2016
+	691171:       Pilot
+	691191:       TAB 2 A10-30
+	691322:       Pad Pop
+	691543:       EVERPAD
+	691571:       Desire 626 (USA)
+	691641:       Ellipsis 10
+	691924:       Muze D3
+	691949:       Muze C3
+	691974:       SupraPad
+	692006:       Speed 7
+	692019:       Water
+	692061:       Grand X View
+	692413:       G5
+	692443:       Prime II
+	692522:       Zenfone Go 4.5
+	692603:       Infinium Z42 Nova
+	692697:       Blade L4 Pro
+	692728:       XOne X401
+	692753:       Desire 520
+	692779:       Iris 360
+	692965:       Rocket
+	693127:       Nextbook 10.1&quot; Tablet 16GB Quad Core +4G LTE Verizon
+	693283:       eXPro X11 10.1
+	693404:       Galaxy Folder LTE
+	693418:       PENDOPAD 7
+	693438:       Xtreme 2 Kids Android 5.0 Tablet
+	693452:       S6
+	693567:       Plane 7.4 4G
+	694302:       Talk 7
+	694317:       Y Max
+	694357:       Lumia 635
+	694383:       50 Cesium
+	694411:       Lumia 635
+	694417:       Lumia 1520
+	694440:       Lumia 830
+	694454:       Lumia 635
+	694485:       Windows Phone 8X
+	694525:       One Touch Pop 3
+	694539:       Blade GF3
+	694579:       Andromax Ec
+	694593:       Andromax Es
+	694607:       One Touch Go Play LTE
+	694621:       One Touch POP 2 4.0 LTE
+	694640:       ONETOUCH PIXI 3 (8)
+	694753:       Zap 5
+	694767:       Blade V Plus
+	694802:       Lumia 820
+	694808:       Lumia 820
+	694816:       Lumia 820
+	694937:       Lumia 1320
+	694960:       Lumia 625
+	694968:       Eluma B25 Smartphone
+	694989:       Pixi 3 (8)
+	695086:       Lumia 625
+	695144:       Lumia 1320
+	695214:       8S
+	695221:       Windows Phone 8X
+	695393:       
+	695448:       Aero
+	695493:       K7
+	695500:       Avid Plus
+	695668:       Optimus Zone 3
+	695742:       Galaxy A7
+	695757:       R7s Plus
+	695823:       Cruiser
+	695855:       Gazelle
+	696225:       C6 Plus
+	696254:       Optima 7.07 3G
+	696551:       Max Quad
+	696678:       Extreem IBT1000A
+	696691:       Pixi First
+	696705:       Pixi 3 4.5
+	696719:       QUATTRO+
+	696753:       Pixi 3
+	696783:       Pixi 3 (7)
+	696822:       Winner S2
+	696870:       Galaxy S7
+	696957:       Multipad 4
+	696973:       Platina 8.3 3G
+	696989:       C2
+	697002:       Golf
+	697074:       Speed 5.5
+	697142:       K4
+	697176:       Smartisan U1 Jianguo
+	697214:       Andy 4EI
+	697242:       Pixi First
+	697269:       Ascend
+	697283:       Honor Play 4X
+	697310:       My Tab 8.0
+	697337:       i One
+	697355:       One Touch Pixi 3 (10)
+	697380:       One Touch Hero 8
+	697425:       Titan HD
+	697464:       Tablet Phone
+	697503:       Master 3
+	697668:       Luna
+	698051:       Kick Lite
+	698064:       C7
+	698077:       Might Pro
+	698238:       Kick
+	698355:       C6 pro
+	698547:       Wize C3
+	698670:       Cumulus 1
+	698717:       Nubia Z5 Mni
+	698743:       Flare Lite Quad
+	698775:       PadFone E
+	698832:       Fantasy T81
+	698876:       C8
+	698901:       C7 Mini
+	699007:       Nimbus 2
+	699205:       Bolt T400
+	699261:       Galaxy S7 Edge
+	699345:       Neon Kids
+	699768:       Live G500TG
+	699834:       ERA Nano 9
+	699899:       Tek 5D
+	700455:       Elite Mini
+	700468:       Venus 5.0
+	700511:       Rocket R1
+	700553:       Lotus
+	700673:       Revel Pro
+	700724:       Selfie 2
+	700890:       Find Melody
+	701231:       Griffe G4
+	701489:       Omega Spectrum
+	702014:       Grace X7
+	702106:       Joey Jump 3.5
+	702116:       Wise Evolution
+	702183:       Galaxy Core II Duos
+	702320:       Ascend Y530-U051
+	702702:       Moto X Style
+	702739:       Redmi 2A
+	702810:       SurfTab xintron i 7.0
+	702834:       Moto G3
+	702841:       Moto G3
+	702919:       Xplorer H520
+	702969:       XL
+	702993:       Le 1 Pro
+	703011:       S6
+	703051:       ivvi
+	703232:       V5
+	703275:       Eluga i2
+	703289:       Winner Y1
+	703314:       Elevate Y2
+	703357:       One X9
+	703480:       Neo 5s
+	703496:       Winner Tab S3
+	703519:       IQX OCCO
+	703566:       Idol 4
+	703604:       Vibe X3
+	703627:       Idol 4S
+	703785:       Griffe G2
+	703851:       Superion Probe
+	703883:       i3
+	704130:   <device id=alcatel_ot5037e_ver1_subuamarketing user_agent=Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; ALCATEL ONETOUCH POPC5 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=alcatel_ot5037e_ver1>
+	704133:       Onetouch Pop C5
+	704156:       Moto G3
+	704168:       Moto G3
+	704175:       Moto G3
+	704182:       Moto G3
+	704189:       Moto G3
+	704196:       Moto G3
+	704203:       Moto G3
+	704322:   <device id=alcatel_ot5037e_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; U; Android 4.4.2; es-es; ALCATEL ONETOUCH POPC5 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 fall_back=alcatel_ot5037e_ver1>
+	704389:       10
+	704433:       Leo 3G
+	705190:       One Touch Pixi 3 (4)
+	705445:       GR5
+	705487:   <device id=samsung_sm_g920_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; Samsung Galaxy S6 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19 fall_back=samsung_sm_g920_ver1>
+	705536:       MediaPad 10 Link+
+	705812:       Grace X3
+	705972:       V Tab 9.7'' Pro
+	706116:       Prime PR4356
+	706159:       Zenfone Max
+	706173:       Evo Chic 2
+	706271:       TVPAD 3
+	706458:       Blade D2
+	706610:   <device id=fly_iq4413_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0.1; Evo Chic 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Mobile Safari/537.36 fall_back=fly_iq4413_ver1>
+	706709:       Moto G3
+	706802:   <device id=lenovo_k50_t5_ver1_suban51marketingchrome user_agent=Mozilla/5.0 (Linux; Android 5.1.1; Lenovo K3 Note Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Mobile Safari/537.36 fall_back=lenovo_k50_t5_ver1>
+	706939:       Mate S
+	707002:       Ascend G760-L11
+	707008:       Ascend G760-L11
+	707081:       Galaxy J7
+	707173:       Andromax G2
+	707371:       Prime Turbo
+	707616:       AX4 Nano Plus
+	708030:       Slim Note
+	708162:       Android Emulator
+	708222:       Tablet Master
+	708292:       A88X
+	708564:       Padfone Mini
+	708589:       Aqua Star II
+	708642:       Xplorer V40
+	709011:       One XL
+	709052:       MultiPad 4 Quantum 10.1 3G
+	709191:       Cooper
+	709239:       SUN E71
+	709291:       Xx2
+	709314:       Xx2 Mini
+	709332:       ONE TOUCH POP 3 5.5
+	709578:       Xperia X
+	709627:       5 Plus
+	709670:   <device id=samsung_gt_i9500_ver1_suban44marketing user_agent=Mozilla/5.0 (Linux; Android 4.4.2; Samsung Galaxy S4 Build/JZO54K) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36 fall_back=samsung_gt_i9500_ver1>
+	709696:       K10
+	709772:   <device id=oppo_find7_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1.1; FIND7 Build/LYZ28J) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 fall_back=oppo_find7_ver1>
+	710267:       PhoneTab K2
+	710348:       Xperia XA
+	710463:       Multipad PMT3777 3G
+	710909:   <device id=motorola_xt1250_ver1_suban51marketing user_agent=Mozilla/5.0 (Linux; Android 5.1.1; Moto MAXX Build/LMY49G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Mobile Safari/537.36 fall_back=motorola_xt1250_ver1>
+	710931:       ME Tablet Y3
+	710994:       Toughshield T700
+	711101:       Fantasy Type A350
+	711276:   <device id=lg_e970_ver1_suban60marketing user_agent=Mozilla/5.0 (Linux; Android 6.0; LG Optimus G Build/MRA58V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0 Mobile Safari/537.36 fall_back=lg_e970_ver1>
+	711320:       Soundpad 500
+	711358:       7&quot; 3G Tablet PC
+	711377:       Pop 4+
+	711400:       Pop 4S
+	711441:       Liquid Jade 2
+	711619:       Plume P8
+	711657:       MultiPad PMP7070C3G
+	711703:       Diamond
+	711716:       Pad 7.85
+	711800:       Arnold 8
+	711845:       Tablet Master 2
+	711872:       Lenny 3
+	711885:       Vibe K5 Plus
+	711904:       Tab3 7
+	711967:       Fantasy One
+	712019:       Vibe K4 Note
+	712134:       Geo 403Q
+	712147:       Miraie
+	712160:       Superion Radar
+	712174:       TAB 714
+	712238:       Stratus 2
+	712252:       Vandroid S45D
+	712265:       X-pad STYLE 10 3G
+	712293:       Snook C70GE Tablet
+	712308:       Snook C70S Tablet
+	712398:       Xenium S307
+	712464:       Ixion X250 OctaVa
+	712529:       MediaPad
+	712680:       Flare S3
+	712752:       Bios
+	712889:       Water 2
+	713008:       Noir A600
+	713021:       Bolt T300
+	713263:       One Touch Pixi 3 (4,5)
+	713715:       Xperia X Performance
+	713820:       Spin 2
+	713834:       Pop 4
+	713847:       Be Pure
+	714013:       Victory
+	714026:       Esteem
+	714040:       Esteem i60
+	714053:       Orion S450
+	714119:       Galaxy A9
+	714171:       Titanium T155
+	714208:       Flare S3 Mini
+	714227:       Rocket
+	714432:       Quad Titan
+	714624:       LexiTab Fluo
+	714797:       Prague
+	715078:       Primo Plus
+	715225:       Blade X3
+	715266:       Lynx II
+	715328:       Blade V2 Lite
+	715481:       
+	715901:       Uno L
+	715997:       Kick
+	716060:       Alcatel One Touch Pixi 3
+	716080:       BLU Quattro 5.7 HD
+	716095:       SnapTo
+	716248:       Edumedia Tab
+	716368:       Titan Max HD
+	716789:       DASH JR Social
+	716910:       Orion Pro
+	717040:       Perseus
+	717137:       Luna
+	717210:       Moto G
+	717311:       Pixi Charm
+	717371:       Axon Tianji mini
+	717414:       Xshot Ultimate
+	717440:       T2
+	717468:       X5Max
+	717488:       X98 Pro
+	717565:       Honor 3X Pro
+	717600:       Dazen F2
+	717677:       Redmi 3
+	717794:       One Touch Pixi 4007A
+	718137:       Wise Evolution
+	718189:       Glider 2
+	718240:       Silver
+	718689:       Glory 2T
+	718981:       Iconia One 7
+	719004:       Onyx 517
+	719029:       Mini Pearl 3G
+	719097:       ZnayPad
+	719195:       Studio G HD
+	719215:       Pro 7
+	719230:       Tab Neon
+	719347:       Wave 8 HD+
+	719420:       Race Jet 4G
+	719447:       OneTouch Pop Astro
+	719514:       J90 Quad Core
+	719540:       Bleck
+	719719:       One Touch T'Pop 4010E
+	719768:       One Touch Fire
+	719969:       King Kong
+	720034:       Tablet Advance 2
+	720049:       LexiTab Neon XL
+	720156:       Zing
+	720227:       Tek 4D2
+	720325:       J1 mini
+	720375:       K5
+	720449:       Hydro View
+	720462:       Blade V6
+	720527:       Grace Q5
+	720611:       Yubi Plus 7''
+	720734:       BV5000
+	720784:       Flame 1
+	720891:       M5 Lite
+	720975:       Pureshot +
+	721049:       Los Angeles
+	721063:       Monte Carlo
+	721083:       Galaxy Active Neo
+	721277:       Desire 630
+	721291:       Speed 8
