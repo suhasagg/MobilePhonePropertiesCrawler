@@ -3,7 +3,7 @@ Supply Additional Mobile Phone Properties to CTR model apart from device model.
 Mobile data enhancer to improve efficiency of CTR model.
 Useful for generating mobile phone models Clusters also on the basis of click response.
 
-#Hardware property list available here
+# Hardware property list available here
 https://www.scientiamobile.com/capabilities/
 
 # Some of Properties include 
