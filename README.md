@@ -2,7 +2,8 @@
 Supply Additional Mobile Phone Properties to CTR model apart from device model.
 Mobile data enhancer to improve efficiency of CTR model.
 Useful for generating mobile phone models Clusters also on the basis of click response.
-Some of Properties include -
+
+# Some of Properties include 
 priceRange,processor,display,primarycamera,battery,frontcamera,RAM
 
 # Feature importance table based on Avazu Dataset 
